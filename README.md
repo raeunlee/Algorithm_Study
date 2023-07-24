@@ -10,6 +10,7 @@
 <table>
   <tr>
     <td align="center"><a href="https://github.com/raeunlee"><b>이라은</b></a></td>
+    <td align="center"><a href="https://github.com/OneK-2"><b>이원규</b></a></td>
   </tr>
 </table>
 
