@@ -22,9 +22,9 @@
 |:---:|:---:|:---:|:---:|
 |Week1| BFS | [백준1926.그림](https://www.acmicpc.net/problem/1926) | 실1 |
 |Week1| BFS | [백준2178.미로탐색](https://www.acmicpc.net/problem/2178) | 실1 |
-|Week1| BFS | [백준1697.숨바꼭질](https://www.acmicpc.net/problem/1697) | 실1 |
-|Week1| BFS | [백준7532.나이트의 이동](https://www.acmicpc.net/problem/7562) | 실1 |
-|Week1| BFS | [백준10026.적록색약](https://www.acmicpc.net/problem/10026) | 골5 |
+|Week1| 백트래킹 | [백준14889.스타트와 링크](https://www.acmicpc.net/problem/14889) | 실2 |
+|Week1| DFS | [백준2667.단지번호 붙이기](https://www.acmicpc.net/problem/2667) | 실1 |
+|Week1| DFS | [백준10026.촌수계산](https://www.acmicpc.net/problem/2644) | 실2 |
 
 <br/>
 
