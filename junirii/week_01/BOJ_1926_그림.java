@@ -1,4 +1,4 @@
-package algoStudy.b1926;
+package baekjoon.b1926;
 
 import java.util.LinkedList;
 import java.util.Queue;
@@ -23,8 +23,8 @@ public class Main {
 		}
 		for (int i = 0; i < N; i++) {
 			for (int j = 0; j < M; j++) {
-				size = 0;
-				bfs(i, j);
+				if(!visited[i][j] && arr[i][j] == 1)
+					bfs(i, j);
 			}
 		}
 		
@@ -33,30 +33,28 @@ public class Main {
 	}
 	
 	public static void bfs(int x, int y) {
-		if(arr[x][y] == 0 || visited[x][y]) return;
-		
 		Queue<int[]> q = new LinkedList<int[]>();
-		int[] item = {x, y}; 
+		int[] item = new int[]{x, y}; 
 		q.add(item);
 		visited[x][y] = true;
 		cnt++;
-		size++;
+		size = 1;
 		
 		while(!q.isEmpty()) {
 			int[] now = q.poll();
-			int nx = now[0];
-			int ny = now[1];
 			for (int i = 0; i < 4; i++) {
-				if(nx+dx[i] >= 0 && nx+dx[i] < N && ny+dy[i] >= 0 && ny+dy[i] < M) {
-					if(arr[nx+dx[i]][ny+dy[i]] == 1 && !visited[nx+dx[i]][ny+dy[i]]) {
-						int[] nitem = {nx+dx[i], ny+dy[i]};
-						q.add(nitem);
-						visited[nx+dx[i]][ny+dy[i]] = true;
+				int newx = now[0] + dx[i];
+				int newy = now[1] + dy[i];
+				if(newx >= 0 && newx < N && newy >= 0 && newy < M) {
+					if(arr[newx][newy] == 1 && !visited[newx][newy]) {
+						int[] newItem = new int[]{newx, newy};
+						q.add(newItem);
+						visited[newx][newy] = true;
 						size++;
-						max = Math.max(max, size);
 					}
 				}
 			}
 		}
+		max = Math.max(max, size);
 	}
 }
