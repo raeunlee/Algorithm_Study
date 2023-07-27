@@ -18,12 +18,12 @@ public class Main {
 		visited = new boolean[N][M];
 		for (int i = 0; i < N; i++) {
 			for (int j = 0; j < M; j++) {
-				size = 0;
 				arr[i][j] = sc.nextInt();
 			}
 		}
 		for (int i = 0; i < N; i++) {
 			for (int j = 0; j < M; j++) {
+				size = 0;
 				bfs(i, j);
 			}
 		}
