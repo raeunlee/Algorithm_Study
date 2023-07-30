@@ -1,5 +1,4 @@
 //촌수계산 실2
-
 package boj2644;
 
 //import
