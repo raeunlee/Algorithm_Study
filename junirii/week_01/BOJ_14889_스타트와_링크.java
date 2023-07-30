@@ -30,7 +30,6 @@ public class Main {
 	
 	public static void comb(int depth, int start) {
 		if(depth > n/2) {
-			getScore(result);
 			int idx = 1;
 			for (int i = 1; i <= n; i++) {
 				int cnt = 0;
