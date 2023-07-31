@@ -23,11 +23,11 @@
 
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
-|Week1| BFS | [백준1926.그림](https://www.acmicpc.net/problem/1926) | 실1 |
-|Week1| BFS | [백준2178.미로탐색](https://www.acmicpc.net/problem/2178) | 실1 |
-|Week1| 백트래킹 | [백준14889.스타트와 링크](https://www.acmicpc.net/problem/14889) | 실2 |
-|Week1| DFS | [백준2667.단지번호 붙이기](https://www.acmicpc.net/problem/2667) | 실1 |
-|Week1| DFS | [백준2644.촌수계산](https://www.acmicpc.net/problem/2644) | 실2 |
+|Week2| DP | [백준1463.1로 만들기](https://www.acmicpc.net/problem/1463) | 실3 |
+|Week2| DP | [백준11659.구간 합 구하기 4](https://www.acmicpc.net/problem/11659) | 실3 |
+|Week2| DP | [백준11055.가장 큰 증가하는 부분 수열](https://www.acmicpc.net/problem/11055) | 실2 |
+|Week2| DP | [백준14501.퇴사](https://www.acmicpc.net/problem/14501) | 실3 |
+|Week2| DP | [백준15486.퇴사2](https://www.acmicpc.net/problem/15486) | 골5 |
 
 <br/>
 
@@ -43,7 +43,8 @@
 
 |   주차    |      날짜       | 이라은 | 이원규 | 김준일 | 채종윤 | 김은진 | 
 |:-------:|:-------------:|:-------:|:---------:|:--------:|:------------:|:------------:|
-| week_01 | 07.25 ~  |        |         |        |          |          |
+| week_01 | 07.25 ~ 07.30 |   🔺     |    ✅     |    ❌    |     ❌     |    🔺      |
+| week_02 | 07.31 ~ 08.06 |        |         |        |          |          |
 
 <br/>
 
@@ -72,6 +73,11 @@
 |Week1| 백트래킹 | [백준14889.스타트와 링크](https://www.acmicpc.net/problem/14889) | 실2 |
 |Week1| DFS | [백준2667.단지번호 붙이기](https://www.acmicpc.net/problem/2667) | 실1 |
 |Week1| DFS | [백준2644.촌수계산](https://www.acmicpc.net/problem/2644) | 실2 |
+|Week2| DP | [백준1463.1로 만들기](https://www.acmicpc.net/problem/1463) | 실3 |
+|Week2| DP | [백준11659.구간 합 구하기 4](https://www.acmicpc.net/problem/11659) | 실3 |
+|Week2| DP | [백준11055.가장 큰 증가하는 부분 수열](https://www.acmicpc.net/problem/11055) | 실2 |
+|Week2| DP | [백준14501.퇴사](https://www.acmicpc.net/problem/14501) | 실3 |
+|Week2| DP | [백준15486.퇴사2](https://www.acmicpc.net/problem/15486) | 골5 |
 
   </details>
 <br/>
