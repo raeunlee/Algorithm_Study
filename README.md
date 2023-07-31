@@ -11,6 +11,9 @@
   <tr>
     <td align="center"><a href="https://github.com/raeunlee"><b>이라은</b></a></td>
     <td align="center"><a href="https://github.com/OneK-2"><b>이원규</b></a></td>
+    <td align="center"><a href="https://github.com/junirii"><b>김준일</b></a></td>
+    <td align="center"><a href="https://github.com/chaejongyun77"><b>채종윤</b></a></td>
+    <td align="center"><a href="https://github.com/dolssun"><b>김은진</b></a></td>
   </tr>
 </table>
 
@@ -24,7 +27,7 @@
 |Week1| BFS | [백준2178.미로탐색](https://www.acmicpc.net/problem/2178) | 실1 |
 |Week1| 백트래킹 | [백준14889.스타트와 링크](https://www.acmicpc.net/problem/14889) | 실2 |
 |Week1| DFS | [백준2667.단지번호 붙이기](https://www.acmicpc.net/problem/2667) | 실1 |
-|Week1| DFS | [백준10026.촌수계산](https://www.acmicpc.net/problem/2644) | 실2 |
+|Week1| DFS | [백준2644.촌수계산](https://www.acmicpc.net/problem/2644) | 실2 |
 
 <br/>
 
@@ -38,9 +41,9 @@
 
 <br>
 
-|   주차    |      날짜       | 이라은 | 이원규 | 3 | 4 | 
-|:-------:|:-------------:|:-------:|:---------:|:--------:|:------------:|
-| week_01 | 07.25 ~  |    ✅    |     ✅     |    ✅     |      ✅      |
+|   주차    |      날짜       | 이라은 | 이원규 | 김준일 | 채종윤 | 김은진 | 
+|:-------:|:-------------:|:-------:|:---------:|:--------:|:------------:|:------------:|
+| week_01 | 07.25 ~  |        |         |        |          |          |
 
 <br/>
 
@@ -66,9 +69,9 @@
 |:---:|:---:|:---:|:---:|
 |Week1| BFS | [백준1926.그림](https://www.acmicpc.net/problem/1926) | 실1 |
 |Week1| BFS | [백준2178.미로탐색](https://www.acmicpc.net/problem/2178) | 실1 |
-|Week1| BFS | [백준1697.숨바꼭질](https://www.acmicpc.net/problem/1697) | 실1 |
-|Week1| BFS | [백준7532.나이트의 이동](https://www.acmicpc.net/problem/7562) | 실1 |
-|Week1| BFS | [백준10026.적록색약](https://www.acmicpc.net/problem/10026) | 골5 |
+|Week1| 백트래킹 | [백준14889.스타트와 링크](https://www.acmicpc.net/problem/14889) | 실2 |
+|Week1| DFS | [백준2667.단지번호 붙이기](https://www.acmicpc.net/problem/2667) | 실1 |
+|Week1| DFS | [백준2644.촌수계산](https://www.acmicpc.net/problem/2644) | 실2 |
 
   </details>
 <br/>
@@ -121,7 +124,7 @@
 <br/>
 
 ### ⚠️ PR 규칙
-- [주차] {플랫폼} {알고리즘 종류} 알고리즘 - {기타 내용}" 형태로 작성
+- [주차] x문제 제출합니다 형태로 작성
 - (option) comment는 자유!
 
 #### 💡 예시
