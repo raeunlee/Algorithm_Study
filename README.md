@@ -23,11 +23,11 @@
 
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
-|Week2| DP | [백준1463.1로 만들기](https://www.acmicpc.net/problem/1463) | 실3 |
-|Week2| DP | [백준11659.구간 합 구하기 4](https://www.acmicpc.net/problem/11659) | 실3 |
-|Week2| DP | [백준11055.가장 큰 증가하는 부분 수열](https://www.acmicpc.net/problem/11055) | 실2 |
-|Week2| DP | [백준14501.퇴사](https://www.acmicpc.net/problem/14501) | 실3 |
-|Week2| DP | [백준15486.퇴사2](https://www.acmicpc.net/problem/15486) | 골5 |
+|Week3| 해시 | [프로그래머스 - 2022 KAKAO BLIND RECRUITMENT_주차요금계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | Lv2 |
+|Week3| 스택, 큐 | [프로그래머스 - 다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) | Lv2 |
+|Week3| 힙 | [프로그래머스 - 더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626) | Lv2 |
+|Week3| 구현 | [프로그래머스 - 2020 KAKAO BLIND RECRUITMENT_기둥과 보 설치](https://school.programmers.co.kr/learn/courses/30/lessons/60061) | Lv3 |
+|Week3| DP | [프로그래머스 - 2020 KAKAO BLIND RECRUITMENT_양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342) |  Lv2 |
 
 <br/>
 
@@ -44,7 +44,7 @@
 |   주차    |      날짜       | 이라은 | 이원규 | 김준일 | 채종윤 | 김은진 | 
 |:-------:|:-------------:|:-------:|:---------:|:--------:|:------------:|:------------:|
 | week_01 | 07.25 ~ 07.30 |   🔺     |    ✅     |    🔺    |     ❌     |    🔺      |
-| week_02 | 07.31 ~ 08.06 |        |         |        |          |          |
+| week_02 | 07.31 ~ 08.06 |   🔺      |   ✅     |    🔺     |          |    🔺       |
 
 <br/>
 
