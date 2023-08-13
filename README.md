@@ -11,6 +11,9 @@
   <tr>
     <td align="center"><a href="https://github.com/raeunlee"><b>이라은</b></a></td>
     <td align="center"><a href="https://github.com/OneK-2"><b>이원규</b></a></td>
+    <td align="center"><a href="https://github.com/junirii"><b>김준일</b></a></td>
+    <td align="center"><a href="https://github.com/chaejongyun77"><b>채종윤</b></a></td>
+    <td align="center"><a href="https://github.com/dolssun"><b>김은진</b></a></td>
   </tr>
 </table>
 
@@ -20,11 +23,11 @@
 
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
-|Week1| BFS | [백준1926.그림](https://www.acmicpc.net/problem/1926) | 실1 |
-|Week1| BFS | [백준2178.미로탐색](https://www.acmicpc.net/problem/2178) | 실1 |
-|Week1| 백트래킹 | [백준14889.스타트와 링크](https://www.acmicpc.net/problem/14889) | 실2 |
-|Week1| DFS | [백준2667.단지번호 붙이기](https://www.acmicpc.net/problem/2667) | 실1 |
-|Week1| DFS | [백준2644.촌수계산](https://www.acmicpc.net/problem/2644) | 실2 |
+|Week3| 해시 | [프로그래머스 - 2022 KAKAO BLIND RECRUITMENT_주차요금계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | Lv2 |
+|Week3| 스택, 큐 | [프로그래머스 - 다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) | Lv2 |
+|Week3| 힙 | [프로그래머스 - 더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626) | Lv2 |
+|Week3| 구현 | [프로그래머스 - 2020 KAKAO BLIND RECRUITMENT_기둥과 보 설치](https://school.programmers.co.kr/learn/courses/30/lessons/60061) | Lv3 |
+|Week3| DP | [프로그래머스 - 2020 KAKAO BLIND RECRUITMENT_양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342) |  Lv2 |
 
 <br/>
 
@@ -40,7 +43,8 @@
 
 |   주차    |      날짜       | 이라은 | 이원규 | 김준일 | 채종윤 | 김은진 | 
 |:-------:|:-------------:|:-------:|:---------:|:--------:|:------------:|:------------:|
-| week_01 | 07.25 ~  |        |         |        |          |          |
+| week_01 | 07.25 ~ 07.30 |   🔺     |    ✅     |    🔺    |     ❌     |    🔺      |
+| week_02 | 07.31 ~ 08.06 |   🔺      |   ✅     |    🔺     |          |    🔺       |
 
 <br/>
 
@@ -66,9 +70,14 @@
 |:---:|:---:|:---:|:---:|
 |Week1| BFS | [백준1926.그림](https://www.acmicpc.net/problem/1926) | 실1 |
 |Week1| BFS | [백준2178.미로탐색](https://www.acmicpc.net/problem/2178) | 실1 |
-|Week1| BFS | [백준1697.숨바꼭질](https://www.acmicpc.net/problem/1697) | 실1 |
-|Week1| BFS | [백준7532.나이트의 이동](https://www.acmicpc.net/problem/7562) | 실1 |
-|Week1| BFS | [백준10026.적록색약](https://www.acmicpc.net/problem/10026) | 골5 |
+|Week1| 백트래킹 | [백준14889.스타트와 링크](https://www.acmicpc.net/problem/14889) | 실2 |
+|Week1| DFS | [백준2667.단지번호 붙이기](https://www.acmicpc.net/problem/2667) | 실1 |
+|Week1| DFS | [백준2644.촌수계산](https://www.acmicpc.net/problem/2644) | 실2 |
+|Week2| DP | [백준1463.1로 만들기](https://www.acmicpc.net/problem/1463) | 실3 |
+|Week2| DP | [백준11659.구간 합 구하기 4](https://www.acmicpc.net/problem/11659) | 실3 |
+|Week2| DP | [백준11055.가장 큰 증가하는 부분 수열](https://www.acmicpc.net/problem/11055) | 실2 |
+|Week2| DP | [백준14501.퇴사](https://www.acmicpc.net/problem/14501) | 실3 |
+|Week2| DP | [백준15486.퇴사2](https://www.acmicpc.net/problem/15486) | 골5 |
 
   </details>
 <br/>
@@ -121,7 +130,7 @@
 <br/>
 
 ### ⚠️ PR 규칙
-- [주차] {플랫폼} {알고리즘 종류} 알고리즘 - {기타 내용}" 형태로 작성
+- [주차] x문제 제출합니다 형태로 작성
 - (option) comment는 자유!
 
 #### 💡 예시
