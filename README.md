@@ -23,11 +23,11 @@
 
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
-|Week3| 구현 | [프로그래머스 - 영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981) | Lv2 |
-|Week3| 그리디 | [프로그래머스 - 구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885) | Lv2 |
-|Week3| 완전탐색 | [프로그래머스 - 카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) | Lv2 |
-|Week3| 구현 | [프로그래머스 - 2021 카카오 채용연계형 인턴십_숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301) | Lv1 |
-|Week3| 구현 | [프로그래머스 - 2018 KAKAO BLIND RECRUITMENT_비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681) |  Lv1 |
+|Week4| 구현 | [프로그래머스 - 영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981) | Lv2 |
+|Week4| 그리디 | [프로그래머스 - 구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885) | Lv2 |
+|Week4| 완전탐색 | [프로그래머스 - 카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) | Lv2 |
+|Week4| 구현 | [프로그래머스 - 2021 카카오 채용연계형 인턴십_숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301) | Lv1 |
+|Week4| 구현 | [프로그래머스 - 2018 KAKAO BLIND RECRUITMENT_비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681) |  Lv1 |
 
 <br/>
 
