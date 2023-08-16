@@ -23,11 +23,11 @@
 
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
-|Week3| 해시 | [프로그래머스 - 2022 KAKAO BLIND RECRUITMENT_주차요금계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | Lv2 |
-|Week3| 스택, 큐 | [프로그래머스 - 다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) | Lv2 |
-|Week3| 힙 | [프로그래머스 - 더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626) | Lv2 |
-|Week3| 구현 | [프로그래머스 - 2020 KAKAO BLIND RECRUITMENT_기둥과 보 설치](https://school.programmers.co.kr/learn/courses/30/lessons/60061) | Lv3 |
-|Week3| DP | [프로그래머스 - 2020 KAKAO BLIND RECRUITMENT_양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342) |  Lv2 |
+|Week4| 구현 | [프로그래머스 - 영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981) | Lv2 |
+|Week4| 그리디 | [프로그래머스 - 구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885) | Lv2 |
+|Week4| 완전탐색 | [프로그래머스 - 카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) | Lv2 |
+|Week4| 구현 | [프로그래머스 - 2021 카카오 채용연계형 인턴십_숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301) | Lv1 |
+|Week4| 구현 | [프로그래머스 - 2018 KAKAO BLIND RECRUITMENT_비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681) |  Lv1 |
 
 <br/>
 
@@ -45,7 +45,7 @@
 |:-------:|:-------------:|:-------:|:---------:|:--------:|:------------:|:------------:|
 | week_01 | 07.25 ~ 07.30 |   🔺     |    ✅     |    🔺    |     ❌     |    🔺      |
 | week_02 | 07.31 ~ 08.06 |   🔺      |   ✅     |    🔺     |          |    🔺       |
-
+| week_03 | 08.07 ~ 08.13 |   ✅     |   ✅     |        |          |    🔺       |
 <br/>
 
 ## 스터디 룰
@@ -68,6 +68,11 @@
  
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
+|Week3| 구현 | [프로그래머스 - 이진변환반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129) | Lv2 |
+|Week3| 스택, 큐 | [프로그래머스 - 다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) | Lv2 |
+|Week3| 힙 | [프로그래머스 - 더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626) | Lv2 |
+|Week3| 구현 | [프로그래머스 - 전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577) | Lv2 |
+|Week3| DP | [프로그래머스 - 땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913) |  Lv2 |
 |Week1| BFS | [백준1926.그림](https://www.acmicpc.net/problem/1926) | 실1 |
 |Week1| BFS | [백준2178.미로탐색](https://www.acmicpc.net/problem/2178) | 실1 |
 |Week1| 백트래킹 | [백준14889.스타트와 링크](https://www.acmicpc.net/problem/14889) | 실2 |
