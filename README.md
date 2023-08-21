@@ -23,11 +23,11 @@
 
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
-|Week4| 구현 | [프로그래머스 - 영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981) | Lv2 |
-|Week4| 그리디 | [프로그래머스 - 구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885) | Lv2 |
-|Week4| 완전탐색 | [프로그래머스 - 카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) | Lv2 |
-|Week4| 구현 | [프로그래머스 - 2021 카카오 채용연계형 인턴십_숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301) | Lv1 |
-|Week4| 구현 | [프로그래머스 - 2018 KAKAO BLIND RECRUITMENT_비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681) |  Lv1 |
+|Week5| 구현 | [백준 - 단어공부](https://www.acmicpc.net/problem/1157) | 브1 |
+|Week5| 구현 | [백준 - 기상캐스터](https://www.acmicpc.net/problem/10709) | 실5 |
+|Week5| 구현 | [백준 - NBA 농구](https://www.acmicpc.net/problem/2852) | 실3 |
+|Week5| 완전탐색 | [프로그래머스 - 최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491) | Lv1 |
+|Week5| 정렬 | [프로그래머스 - H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747) |  Lv2 |
 
 <br/>
 
@@ -68,6 +68,11 @@
  
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
+|Week4| 구현 | [프로그래머스 - 영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981) | Lv2 |
+|Week4| 그리디 | [프로그래머스 - 구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885) | Lv2 |
+|Week4| 완전탐색 | [프로그래머스 - 카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) | Lv2 |
+|Week4| 구현 | [프로그래머스 - 2021 카카오 채용연계형 인턴십_숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301) | Lv1 |
+|Week4| 구현 | [프로그래머스 - 2018 KAKAO BLIND RECRUITMENT_비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681) |  Lv1 |
 |Week3| 구현 | [프로그래머스 - 이진변환반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129) | Lv2 |
 |Week3| 스택, 큐 | [프로그래머스 - 다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) | Lv2 |
 |Week3| 힙 | [프로그래머스 - 더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626) | Lv2 |
