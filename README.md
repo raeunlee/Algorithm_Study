@@ -12,7 +12,6 @@
     <td align="center"><a href="https://github.com/raeunlee"><b>이라은</b></a></td>
     <td align="center"><a href="https://github.com/OneK-2"><b>이원규</b></a></td>
     <td align="center"><a href="https://github.com/junirii"><b>김준일</b></a></td>
-    <td align="center"><a href="https://github.com/chaejongyun77"><b>채종윤</b></a></td>
     <td align="center"><a href="https://github.com/dolssun"><b>김은진</b></a></td>
   </tr>
 </table>
@@ -41,12 +40,12 @@
 
 <br>
 
-|   주차    |      날짜       | 이라은 | 이원규 | 김준일 | 채종윤 | 김은진 | 
+|   주차    |      날짜       | 이라은 | 이원규 | 김준일 | 김은진 | 
 |:-------:|:-------------:|:-------:|:---------:|:--------:|:------------:|:------------:|
-| week_01 | 07.25 ~ 07.30 |   🔺     |    ✅     |    🔺    |          |    🔺      |
-| week_02 | 07.31 ~ 08.06 |   🔺      |   ✅     |    🔺     |          |    🔺       |
-| week_03 | 08.07 ~ 08.13 |   ✅     |   ✅     |  🔺      |          |    🔺       |
-| week_04 | 08.07 ~ 08.13 |   🔺    |   ✅     | ✅     |          |    ✅       |
+| week_01 | 07.25 ~ 07.30 |   🔺     |    ✅     |    🔺    |    🔺      |
+| week_02 | 07.31 ~ 08.06 |   🔺      |   ✅     |    🔺         |    🔺       |
+| week_03 | 08.07 ~ 08.13 |   ✅     |   ✅     |  🔺       |    🔺       |
+| week_04 | 08.07 ~ 08.13 |   🔺    |   ✅     | ✅     |    ✅       |
 <br/>
 
 ## 스터디 룰
