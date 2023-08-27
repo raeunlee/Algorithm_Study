@@ -12,7 +12,6 @@
     <td align="center"><a href="https://github.com/raeunlee"><b>이라은</b></a></td>
     <td align="center"><a href="https://github.com/OneK-2"><b>이원규</b></a></td>
     <td align="center"><a href="https://github.com/junirii"><b>김준일</b></a></td>
-    <td align="center"><a href="https://github.com/chaejongyun77"><b>채종윤</b></a></td>
     <td align="center"><a href="https://github.com/dolssun"><b>김은진</b></a></td>
   </tr>
 </table>
@@ -23,11 +22,11 @@
 
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
-|Week4| 구현 | [프로그래머스 - 영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981) | Lv2 |
-|Week4| 그리디 | [프로그래머스 - 구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885) | Lv2 |
-|Week4| 완전탐색 | [프로그래머스 - 카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) | Lv2 |
-|Week4| 구현 | [프로그래머스 - 2021 카카오 채용연계형 인턴십_숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301) | Lv1 |
-|Week4| 구현 | [프로그래머스 - 2018 KAKAO BLIND RECRUITMENT_비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681) |  Lv1 |
+|Week5| 구현 | [백준 - 단어공부](https://www.acmicpc.net/problem/1157) | 브1 |
+|Week5| 구현 | [백준 - 기상캐스터](https://www.acmicpc.net/problem/10709) | 실5 |
+|Week5| 구현 | [백준 - NBA 농구](https://www.acmicpc.net/problem/2852) | 실3 |
+|Week5| 완전탐색 | [프로그래머스 - 최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491) | Lv1 |
+|Week5| 정렬 | [프로그래머스 - H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747) |  Lv2 |
 
 <br/>
 
@@ -36,23 +35,24 @@
 | 진행 상황            | 표기  |
 |:-----------------|:----|
 | 해당 주에 완료       | ✅ |
-| 해당 주에 미완료     | ❌ |
+| 해당 주에 미제출   | ❌ |
 | 해당 주차 종료 이후 보충 | 🔺 |
 
 <br>
 
-|   주차    |      날짜       | 이라은 | 이원규 | 김준일 | 채종윤 | 김은진 | 
-|:-------:|:-------------:|:-------:|:---------:|:--------:|:------------:|:------------:|
-| week_01 | 07.25 ~ 07.30 |   🔺     |    ✅     |    🔺    |     ❌     |    🔺      |
-| week_02 | 07.31 ~ 08.06 |   🔺      |   ✅     |    🔺     |          |    🔺       |
-| week_03 | 08.07 ~ 08.13 |   ✅     |   ✅     |        |          |    🔺       |
+|   주차    |      날짜       | 이라은 | 이원규 | 김준일 | 김은진 | 
+|:-------:|:-------------:|:-------:|:---------:|:--------:|:------------:|
+| week_01 | 07.25 ~ 07.30 |   🔺     |    ✅     |    🔺    |    🔺      |
+| week_02 | 07.31 ~ 08.06 |   🔺      |   ✅     |    🔺         |    🔺       |
+| week_03 | 08.07 ~ 08.13 |   ✅     |   ✅     |  🔺       |    🔺       |
+| week_04 | 08.07 ~ 08.13 |   🔺    |   ✅     | ✅     |    ✅       |
 <br/>
 
 ## 스터디 룰
 
 ### 운영 방식
 - 매주 할당된 문제를 풀이한다.
-- 모르는 문제 발시, 쉬는 시간에 토론한다.
+- 모르는 문제는 쉬는 시간에 토론한다.
 
 ### PR 마감 시간
 - 매주 일요일 자정까지 업로드한다.
@@ -68,6 +68,11 @@
  
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
+|Week4| 구현 | [프로그래머스 - 영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981) | Lv2 |
+|Week4| 그리디 | [프로그래머스 - 구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885) | Lv2 |
+|Week4| 완전탐색 | [프로그래머스 - 카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) | Lv2 |
+|Week4| 구현 | [프로그래머스 - 2021 카카오 채용연계형 인턴십_숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301) | Lv1 |
+|Week4| 구현 | [프로그래머스 - 2018 KAKAO BLIND RECRUITMENT_비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681) |  Lv1 |
 |Week3| 구현 | [프로그래머스 - 이진변환반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129) | Lv2 |
 |Week3| 스택, 큐 | [프로그래머스 - 다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) | Lv2 |
 |Week3| 힙 | [프로그래머스 - 더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626) | Lv2 |
