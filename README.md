@@ -22,11 +22,11 @@
 
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
-|Week5| 구현 | [백준 - 단어공부](https://www.acmicpc.net/problem/1157) | 브1 |
-|Week5| 구현 | [백준 - 기상캐스터](https://www.acmicpc.net/problem/10709) | 실5 |
-|Week5| 구현 | [백준 - NBA 농구](https://www.acmicpc.net/problem/2852) | 실3 |
-|Week5| 완전탐색 | [프로그래머스 - 최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491) | Lv1 |
-|Week5| 정렬 | [프로그래머스 - H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747) |  Lv2 |
+|Week6| 재귀 | [백준10814.나이순 정렬](https://www.acmicpc.net/problem/10814) | 실5 |
+|Week6| 완전탐색 | [백준2606.바이러스](https://www.acmicpc.net/problem/2606) | 실3 |
+|Week6| dp | [백준9461.파도반 수열](https://www.acmicpc.net/problem/9461) | 실3 |
+|Week6| 구현 | [백준2979.트럭 주차](https://www.acmicpc.net/problem/2979) | 브2 |
+|Week6| 구현 | [백준14888.연산자 끼워넣기](https://www.acmicpc.net/problem/14888) |  실1 |
 
 <br/>
 
@@ -46,7 +46,7 @@
 | week_02 | 07.31 ~ 08.06 |   🔺      |   ✅     |    🔺         |    🔺       |
 | week_03 | 08.07 ~ 08.13 |   ✅     |   ✅     |  🔺       |    🔺       |
 | week_04 | 08.14 ~ 08.20 |   🔺    |   ✅     | ✅     |    ✅       |
-| week_04 | 08.21 ~ 08.27 |   ✅     |   🔺    | ✅     |    ✅       |
+| week_05 | 08.21 ~ 08.27 |   ✅     |   🔺    | ✅     |    ✅       |
 <br/>
 
 ## 스터디 룰
@@ -69,6 +69,11 @@
  
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
+|Week5| 구현 | [백준 - 단어공부](https://www.acmicpc.net/problem/1157) | 브1 |
+|Week5| 구현 | [백준 - 기상캐스터](https://www.acmicpc.net/problem/10709) | 실5 |
+|Week5| 구현 | [백준 - NBA 농구](https://www.acmicpc.net/problem/2852) | 실3 |
+|Week5| 완전탐색 | [프로그래머스 - 최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491) | Lv1 |
+|Week5| 정렬 | [프로그래머스 - H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747) |  Lv2 |
 |Week4| 구현 | [프로그래머스 - 영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981) | Lv2 |
 |Week4| 그리디 | [프로그래머스 - 구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885) | Lv2 |
 |Week4| 완전탐색 | [프로그래머스 - 카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) | Lv2 |
