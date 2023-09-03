@@ -22,11 +22,11 @@
 
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
-|Week6| 재귀 | [백준10814.나이순 정렬](https://www.acmicpc.net/problem/10814) | 실5 |
-|Week6| 완전탐색 | [백준2606.바이러스](https://www.acmicpc.net/problem/2606) | 실3 |
-|Week6| dp | [백준9461.파도반 수열](https://www.acmicpc.net/problem/9461) | 실3 |
-|Week6| 구현 | [백준2979.트럭 주차](https://www.acmicpc.net/problem/2979) | 브2 |
-|Week6| 구현 | [백준14888.연산자 끼워넣기](https://www.acmicpc.net/problem/14888) |  실1 |
+|Week7| 탐색 | [백준1733 - 음식물 피하기](https://www.acmicpc.net/problem/1743) | 실1 |
+|Week7| 백트래킹 | [백준2023 - 신기한 소수](https://www.acmicpc.net/problem/2023) | 실1 |
+|Week7| 그리디 | [프로그래머스 - 점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980) | Lv2 |
+|Week7| 완전탐색 | [프로그래머스 - 모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512) | Lv2 |
+|Week7| 구현 | [프로그래머스 - 문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057) | Lv2  |
 
 <br/>
 
@@ -69,6 +69,11 @@
  
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
+|Week6| 재귀 | [백준10814.나이순 정렬](https://www.acmicpc.net/problem/10814) | 실5 |
+|Week6| 완전탐색 | [백준2606.바이러스](https://www.acmicpc.net/problem/2606) | 실3 |
+|Week6| dp | [백준9461.파도반 수열](https://www.acmicpc.net/problem/9461) | 실3 |
+|Week6| 구현 | [백준2979.트럭 주차](https://www.acmicpc.net/problem/2979) | 브2 |
+|Week6| 구현 | [백준14888.연산자 끼워넣기](https://www.acmicpc.net/problem/14888) |  실1 |
 |Week5| 구현 | [백준 - 단어공부](https://www.acmicpc.net/problem/1157) | 브1 |
 |Week5| 구현 | [백준 - 기상캐스터](https://www.acmicpc.net/problem/10709) | 실5 |
 |Week5| 구현 | [백준 - NBA 농구](https://www.acmicpc.net/problem/2852) | 실3 |
