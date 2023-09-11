@@ -22,11 +22,11 @@
 
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
-|Week7| 탐색 | [백준1733 - 음식물 피하기](https://www.acmicpc.net/problem/1743) | 실1 |
-|Week7| 백트래킹 | [백준2023 - 신기한 소수](https://www.acmicpc.net/problem/2023) | 실1 |
-|Week7| 그리디 | [프로그래머스 - 점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980) | Lv2 |
-|Week7| 완전탐색 | [프로그래머스 - 모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512) | Lv2 |
-|Week7| 구현 | [프로그래머스 - 문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057) | Lv2  |
+|Week7| 완전탐색 | [프로그래머스 - 전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) | Lv2 |
+|Week7| BFS,DFS | [프로그래머스 - 타겟넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) | Lv2 |
+|Week7| BFS,DFS | [프로그래머스 - 게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | Lv2 |
+|Week7| 완전탐색 | [프로그래머스 - 피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | Lv2 |
+|Week7| 스택,큐 | [프로그래머스 - 주식 가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584) | Lv2  |
 
 <br/>
 
@@ -48,6 +48,7 @@
 | week_04 | 08.14 ~ 08.20 |   🔺    |   ✅     | ✅     |    ✅       |
 | week_05 | 08.21 ~ 08.27 |   ✅     |   🔺    | ✅     |    ✅       |
 | week_06 | 08.28 ~ 09.03 |   ✅     |   ✅    | 🔺     |    🔺   |
+| week_07 | 08.28 ~ 09.03 |  🔺    |   ✅    | 🔺     |    x   |
 <br/>
 
 ## 스터디 룰
@@ -70,6 +71,11 @@
  
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
+|Week7| 탐색 | [백준1733 - 음식물 피하기](https://www.acmicpc.net/problem/1743) | 실1 |
+|Week7| 백트래킹 | [백준2023 - 신기한 소수](https://www.acmicpc.net/problem/2023) | 실1 |
+|Week7| 그리디 | [프로그래머스 - 점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980) | Lv2 |
+|Week7| 완전탐색 | [프로그래머스 - 모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512) | Lv2 |
+|Week7| 구현 | [프로그래머스 - 문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057) | Lv2  |
 |Week6| 재귀 | [백준10814.나이순 정렬](https://www.acmicpc.net/problem/10814) | 실5 |
 |Week6| 완전탐색 | [백준2606.바이러스](https://www.acmicpc.net/problem/2606) | 실3 |
 |Week6| dp | [백준9461.파도반 수열](https://www.acmicpc.net/problem/9461) | 실3 |
