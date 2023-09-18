@@ -22,11 +22,11 @@
 
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
-|Week7| 완전탐색 | [프로그래머스 - 전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) | Lv2 |
-|Week7| BFS,DFS | [프로그래머스 - 타겟넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) | Lv2 |
-|Week7| BFS,DFS | [프로그래머스 - 게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | Lv2 |
-|Week7| 완전탐색 | [프로그래머스 - 피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | Lv2 |
-|Week7| 스택,큐 | [프로그래머스 - 주식 가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584) | Lv2  |
+|Week8| 완전탐색 | [프로그래머스 - 전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) | Lv2 |
+|Week8| BFS,DFS | [프로그래머스 - 타겟넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) | Lv2 |
+|Week8| BFS,DFS | [프로그래머스 - 게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | Lv2 |
+|Week8| 완전탐색 | [프로그래머스 - 피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | Lv2 |
+|Week8| 스택,큐 | [프로그래머스 - 주식 가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584) | Lv2  |
 
 <br/>
 
