@@ -14,7 +14,7 @@
     <td align="center"><a href="https://github.com/junirii"><b>김준일</b></a></td>
     <td align="center"><a href="https://github.com/dolssun"><b>김은진</b></a></td>
     <td align="center"><a href="https://github.com/hurdong"><b>허동민</b></a></td>
-    <td align="center"><a href="https://github.com/dolssun"><b>김희주</b></a></td>
+    <td align="center"><a href="https://github.com/hejoo345"><b>김희주</b></a></td>
     <td align="center"><a href="https://github.com/psh500100"><b>박수현</b></a></td>
   </tr>
 </table>
