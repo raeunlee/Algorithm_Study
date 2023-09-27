@@ -13,6 +13,9 @@
     <td align="center"><a href="https://github.com/OneK-2"><b>이원규</b></a></td>
     <td align="center"><a href="https://github.com/junirii"><b>김준일</b></a></td>
     <td align="center"><a href="https://github.com/dolssun"><b>김은진</b></a></td>
+    <td align="center"><a href="https://github.com/hurdong"><b>허동민</b></a></td>
+    <td align="center"><a href="https://github.com/dolssun"><b>김희주</b></a></td>
+    <td align="center"><a href="https://github.com/psh500100"><b>박수현</b></a></td>
   </tr>
 </table>
 
@@ -22,11 +25,11 @@
 
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
-|Week8| 완전탐색 | [프로그래머스 - 전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) | Lv2 |
-|Week8| BFS,DFS | [프로그래머스 - 타겟넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) | Lv2 |
-|Week8| BFS,DFS | [프로그래머스 - 게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | Lv2 |
-|Week8| 완전탐색 | [프로그래머스 - 피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | Lv2 |
-|Week8| 스택,큐 | [프로그래머스 - 주식 가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584) | Lv2  |
+|Week10| 구현 | [프로그래머스 - 정수를 나선형으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/181832) | Lv0 |
+|Week10| 조합 | [백준 - 다리놓기](https://www.acmicpc.net/problem/1010) | 실5 |
+|Week10| BFS,DFS | [백준 - 유기농 배추](https://www.acmicpc.net/problem/1012) | 실2 |
+|Week10| SQL-SELECT | [프로그래머스 - 인기있는 아이스크림](https://school.programmers.co.kr/learn/courses/30/lessons/133024) | Lv1 |
+|Week10| SQL-GROUP BY | [프로그래머스 - 고양이와 개는 몇 마리 있을까](https://school.programmers.co.kr/learn/courses/30/lessons/59040) | Lv2  |
 
 <br/>
 
@@ -40,15 +43,17 @@
 
 <br>
 
-|   주차    |      날짜       | 이라은 | 이원규 | 김준일 | 김은진 | 
+|   주차    |      날짜       | 이라은 | 이원규 | 김준일 | 김은진 | 허동민 | 김희주 | 박수현 | 
 |:-------:|:-------------:|:-------:|:---------:|:--------:|:------------:|
-| week_01 | 07.25 ~ 07.30 |   🔺     |    ✅     |    ✅    |    🔺      |
-| week_02 | 07.31 ~ 08.06 |   🔺      |   ✅     |    ✅         |    🔺       |
-| week_03 | 08.07 ~ 08.13 |   ✅     |   ✅     |  🔺       |    🔺       |
-| week_04 | 08.14 ~ 08.20 |   🔺    |   ✅     | ✅     |    ✅       |
-| week_05 | 08.21 ~ 08.27 |   ✅     |   🔺    | ✅     |    ✅       |
-| week_06 | 08.28 ~ 09.03 |   ✅     |   ✅    | 🔺     |    🔺   |
-| week_07 | 09.04 ~ 09.10 |  🔺    |   ✅    | 🔺     |    x   |
+| week_01 | 07.25 ~ 07.30 |   🔺     |    ✅     |    ✅    |    🔺      |        |        |        |
+| week_02 | 07.31 ~ 08.06 |   🔺      |   ✅     |    ✅         |    🔺       |        |        |        |
+| week_03 | 08.07 ~ 08.13 |   ✅     |   ✅     |  🔺       |    🔺       |        |        |        |
+| week_04 | 08.14 ~ 08.20 |   🔺    |   ✅     | ✅     |    ✅       |        |        |        |
+| week_05 | 08.21 ~ 08.27 |   ✅     |   🔺    | ✅     |    ✅       |        |        |        |
+| week_06 | 08.28 ~ 09.03 |   ✅     |   ✅    | 🔺     |    🔺   |        |        |        |
+| week_07 | 09.04 ~ 09.10 |      |       |      |    x   |        |        |        |
+| week_08 | 09.11 ~ 09.17 |      |       |      |    x   |        |        |        |
+| week_09 | 09.18 ~ 09.24 |      |       |      |    x   |        |        |        |
 <br/>
 
 ## 스터디 룰
@@ -71,6 +76,11 @@
  
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
+|Week8| 완전탐색 | [프로그래머스 - 전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) | Lv2 |
+|Week8| BFS,DFS | [프로그래머스 - 타겟넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) | Lv2 |
+|Week8| BFS,DFS | [프로그래머스 - 게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | Lv2 |
+|Week8| 완전탐색 | [프로그래머스 - 피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | Lv2 |
+|Week8| 스택,큐 | [프로그래머스 - 주식 가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584) | Lv2  |
 |Week7| 탐색 | [백준1733 - 음식물 피하기](https://www.acmicpc.net/problem/1743) | 실1 |
 |Week7| 백트래킹 | [백준2023 - 신기한 소수](https://www.acmicpc.net/problem/2023) | 실1 |
 |Week7| 그리디 | [프로그래머스 - 점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980) | Lv2 |
