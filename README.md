@@ -3,8 +3,7 @@
 2023년 7월 25일 ~ ing
 
 ### Language
-<img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"> 
-
+<img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/python-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"> 
 ### 스터디 멤버
 
 <table>
@@ -51,9 +50,9 @@
 | week_04 | 08.14 ~ 08.20 |   🔺    |   ✅     | ✅     |    ✅       ||||
 | week_05 | 08.21 ~ 08.27 |   ✅     |   🔺    | ✅     |    ✅       ||||
 | week_06 | 08.28 ~ 09.03 |   ✅     |   ✅    | 🔺     |    🔺   ||||
-| week_07 | 09.04 ~ 09.10 ||||||||
-| week_08 | 09.11 ~ 09.17 ||||||||
-| week_09 | 09.18 ~ 09.24 ||||||||
+| week_07 | 09.04 ~ 09.10 |<-|-|-|프젝주간|-|-|>|
+| week_08 | 09.11 ~ 09.17 |<-|-|-|프젝주간|-|-|>|
+| week_09 | 09.18 ~ 09.24 |<-|-|-|프젝주간|-|-|>|
 <br/>
 
 ## 스터디 룰
