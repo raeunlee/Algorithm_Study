@@ -1,0 +1,13 @@
+# 백준 1010 : 다리 놓기
+
+def factorial(n):
+    if n>1:
+        return (n*factorial(n-1))
+    else:
+        return 1
+
+t = int(input())
+for i in range(t):
+    n,m = list(map(int, input().split()))
+    result = factorial(m) // (factorial(m-n)*factorial(n))
+    print(result)
