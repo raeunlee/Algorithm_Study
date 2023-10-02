@@ -1,0 +1,28 @@
+#프로그래머스 - 정수를 나선형으로 배치하기
+
+def solution(n):
+    answer = [[0]*n for i in range(n)]
+    #print(answer)
+    
+    dx = [0,1,0,-1]
+    dy = [1,0,-1,0]
+    dir = 0
+    x,y = 0,0
+    
+    for i in range(n*n):
+        answer[x][y] = i+1
+        
+        nx = x + dx[dir]
+        ny = y + dy[dir]
+        
+        if nx<0 or nx>=n or ny<0 or ny>=n or answer[nx][ny] !=0 :
+            dir = (dir+1)%4
+            nx = x + dx[dir]
+            ny = y + dy[dir]
+        
+        
+        x = nx;
+        y = ny
+    
+    
+    return answer
