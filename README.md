@@ -24,12 +24,14 @@
 
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
-|Week10| 구현 | [프로그래머스 - 정수를 나선형으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/181832) | Lv0 |
-|Week10| 조합 | [백준 - 다리놓기](https://www.acmicpc.net/problem/1010) | 실5 |
-|Week10| BFS,DFS | [백준 - 유기농 배추](https://www.acmicpc.net/problem/1012) | 실2 |
-|Week10| SQL-SELECT | [프로그래머스 - 인기있는 아이스크림](https://school.programmers.co.kr/learn/courses/30/lessons/133024) | Lv1 |
-|Week10| SQL-GROUP BY | [프로그래머스 - 고양이와 개는 몇 마리 있을까](https://school.programmers.co.kr/learn/courses/30/lessons/59040) | Lv2  |
-
+|Week11| BFS, DFS | [백준- 바이러스](https://www.acmicpc.net/problem/2606) | 실3 |
+|Week11| 분할정복 | [백준 - Z](https://www.acmicpc.net/problem/1074) | 실1 |
+|Week11| BFS,DFS | [백준 - 연결 요소의 개수](https://www.acmicpc.net/problem/11724) | 실2 |
+|Week11| 구현 | [백준 - 집합](https://www.acmicpc.net/problem/11723) | 실5 |
+|Week11| DP | [백준 - 피보나치 함수](https://www.acmicpc.net/problem/1003) | 실3  |
+|Week11| SQL-Select | [프로그래머스 - 과일로 만든 아이스크림 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/133025) | Lv1 |
+|Week11| SQL-Sum, Max, Min | [프로그래머스 - 가격이 제일 비싼 식품의 정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131115) | Lv2 |
+|Week11| SQL-Join | [프로그래머스 - 조건에 맞는 도서와 저자 리스트 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/144854) | Lv2 |
 <br/>
 
 ## 진행 상황
@@ -44,15 +46,17 @@
 
 |   주차    |      날짜       | 이라은 | 이원규 | 김준일 | 김은진 | 허동민 | 김희주 | 박수현 | 
 |:-------:|:-------------:|:-------:|:---------:|:--------:|:------------:|:------------:|:------------:|:------------:|
-| week_01 | 07.25 ~ 07.30 |   🔺     |    ✅     |    ✅    |    🔺      ||||
-| week_02 | 07.31 ~ 08.06 |   🔺      |   ✅     |    ✅         |    🔺       ||||
-| week_03 | 08.07 ~ 08.13 |   ✅     |   ✅     |  🔺       |    🔺       ||||
-| week_04 | 08.14 ~ 08.20 |   🔺    |   ✅     | ✅     |    ✅       ||||
-| week_05 | 08.21 ~ 08.27 |   ✅     |   🔺    | ✅     |    ✅       ||||
-| week_06 | 08.28 ~ 09.03 |   ✅     |   ✅    | 🔺     |    🔺   ||||
+| week_01 | 07.25 ~ 07.30 |   🔺     |    ✅     |    ✅    |    🔺      |-|||
+| week_02 | 07.31 ~ 08.06 |   🔺      |   ✅     |    ✅         |    🔺       |-|||
+| week_03 | 08.07 ~ 08.13 |   ✅     |   ✅     |  🔺       |    🔺       |-|||
+| week_04 | 08.14 ~ 08.20 |   🔺    |   ✅     | ✅     |    ✅       |-|||
+| week_05 | 08.21 ~ 08.27 |   ✅     |   🔺    | ✅     |    ✅       |-|||
+| week_06 | 08.28 ~ 09.03 |   ✅     |   ✅    | 🔺     |    🔺   |-|||
 | week_07 | 09.04 ~ 09.10 |<-|-|-|프젝주간|-|-|>|
 | week_08 | 09.11 ~ 09.17 |<-|-|-|프젝주간|-|-|>|
 | week_09 | 09.18 ~ 09.24 |<-|-|-|프젝주간|-|-|>|
+| week_10 | 09.25 ~ 10.1 |  ✅    |      |      |  ✅     |  ✅     |      |      |
+
 <br/>
 
 ## 스터디 룰
@@ -75,6 +79,11 @@
  
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
+|Week10| 구현 | [프로그래머스 - 정수를 나선형으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/181832) | Lv0 |
+|Week10| 조합 | [백준 - 다리놓기](https://www.acmicpc.net/problem/1010) | 실5 |
+|Week10| BFS,DFS | [백준 - 유기농 배추](https://www.acmicpc.net/problem/1012) | 실2 |
+|Week10| SQL-SELECT | [프로그래머스 - 인기있는 아이스크림](https://school.programmers.co.kr/learn/courses/30/lessons/133024) | Lv1 |
+|Week10| SQL-GROUP BY | [프로그래머스 - 고양이와 개는 몇 마리 있을까](https://school.programmers.co.kr/learn/courses/30/lessons/59040) | Lv2  |
 |Week8| 완전탐색 | [프로그래머스 - 전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) | Lv2 |
 |Week8| BFS,DFS | [프로그래머스 - 타겟넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) | Lv2 |
 |Week8| BFS,DFS | [프로그래머스 - 게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | Lv2 |
