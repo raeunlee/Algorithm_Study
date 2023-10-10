@@ -14,7 +14,7 @@
     <td align="center"><a href="https://github.com/dolssun"><b>김은진</b></a></td>
     <td align="center"><a href="https://github.com/hurdong"><b>허동민</b></a></td>
     <td align="center"><a href="https://github.com/hejoo345"><b>김희주</b></a></td>
-    <td align="center"><a href="https://github.com/psh500100"><b>박수현</b></a></td>
+    <td align="center"><a href="https://github.com/SuHyeon2Park"><b>박수현</b></a></td>
   </tr>
 </table>
 
@@ -55,8 +55,8 @@
 | week_07 | 09.04 ~ 09.10 |<-|-|-|프젝주간|-|-|->|
 | week_08 | 09.11 ~ 09.17 |<-|-|-|프젝주간|-|-|->|
 | week_09 | 09.18 ~ 09.24 |<-|-|-|프젝주간|-|-|->|
-| week_10 | 09.25 ~ 10.1 |  ✅    |      |  🔺    |  ✅     |  ✅     |   ✅   |      |
-| week_11 | 10.2 ~ 10.8 |      |  🔺    |  ✅    |   ✅   |   ✅   |   ✅   |      |
+| week_10 | 09.25 ~ 10.1 |  ✅    |      |  🔺    |  ✅     |  ✅     |   ✅   |  🔺    |
+| week_11 | 10.2 ~ 10.8 |      |  🔺    |  ✅    |   ✅   |   ✅   |   ✅   |  🔺    |
 
 <br/>
 
