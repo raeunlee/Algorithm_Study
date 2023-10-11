@@ -14,7 +14,7 @@
     <td align="center"><a href="https://github.com/dolssun"><b>김은진</b></a></td>
     <td align="center"><a href="https://github.com/hurdong"><b>허동민</b></a></td>
     <td align="center"><a href="https://github.com/hejoo345"><b>김희주</b></a></td>
-    <td align="center"><a href="https://github.com/psh500100"><b>박수현</b></a></td>
+    <td align="center"><a href="https://github.com/SuHyeon2Park"><b>박수현</b></a></td>
   </tr>
 </table>
 
@@ -24,14 +24,12 @@
 
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
-|Week11| BFS, DFS | [백준- 바이러스](https://www.acmicpc.net/problem/2606) | 실3 |
-|Week11| 분할정복 | [백준 - Z](https://www.acmicpc.net/problem/1074) | 실1 |
-|Week11| BFS,DFS | [백준 - 연결 요소의 개수](https://www.acmicpc.net/problem/11724) | 실2 |
-|Week11| 구현 | [백준 - 집합](https://www.acmicpc.net/problem/11723) | 실5 |
-|Week11| DP | [백준 - 피보나치 함수](https://www.acmicpc.net/problem/1003) | 실3  |
-|Week11| SQL-Select | [프로그래머스 - 과일로 만든 아이스크림 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/133025) | Lv1 |
-|Week11| SQL-Sum, Max, Min | [프로그래머스 - 가격이 제일 비싼 식품의 정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131115) | Lv2 |
-|Week11| SQL-Join | [프로그래머스 - 조건에 맞는 도서와 저자 리스트 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/144854) | Lv2 |
+|Week12| 시뮬레이션 | [백준- 스위치 켜고 끄기](https://www.acmicpc.net/problem/1244) | 실4 |
+|Week12| 시뮬레이션 | [백준 - 프린터 큐](https://www.acmicpc.net/problem/1966) | 실3 |
+|Week12| BFS,DFS | [백준 - 영역 구하기](https://www.acmicpc.net/problem/2583) | 실1 |
+|Week12| BFS,DFS | [백준 - 안전 영역](https://www.acmicpc.net/problem/2468) | 실1 |
+|Week12| 구현 | [백준 - 색종이](https://www.acmicpc.net/problem/2563) | 실5  |
+
 <br/>
 
 ## 진행 상황
@@ -52,11 +50,12 @@
 | week_04 | 08.14 ~ 08.20 |   🔺    |   ✅     | ✅     |    ✅       |-|||
 | week_05 | 08.21 ~ 08.27 |   ✅     |   🔺    | ✅     |    ✅       |-|||
 | week_06 | 08.28 ~ 09.03 |   ✅     |   ✅    | 🔺     |    🔺   |-|||
-| week_07 | 09.04 ~ 09.10 |<-|-|-|프젝주간|-|-|>|
-| week_08 | 09.11 ~ 09.17 |<-|-|-|프젝주간|-|-|>|
-| week_09 | 09.18 ~ 09.24 |<-|-|-|프젝주간|-|-|>|
-| week_10 | 09.25 ~ 10.1 |  ✅    |      |      |  ✅     |  ✅     |      |      |
-
+| week_07 | 09.04 ~ 09.10 |<-|-|-|프젝주간|-|-|->|
+| week_08 | 09.11 ~ 09.17 |<-|-|-|프젝주간|-|-|->|
+| week_09 | 09.18 ~ 09.24 |<-|-|-|프젝주간|-|-|->|
+| week_10 | 09.25 ~ 10.1 |  ✅    |      |  🔺    |  ✅     |  ✅     |   ✅   |  🔺    |
+| week_11 | 10.2 ~ 10.8 |      |  🔺    |  ✅    |   ✅   |   ✅   |   ✅   |  🔺    |
+| week_12 | 10.9 ~ 10.15 |      |      |      |      |      |      |      |
 <br/>
 
 ## 스터디 룰
@@ -79,6 +78,14 @@
  
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
+|Week11| BFS, DFS | [백준- 바이러스](https://www.acmicpc.net/problem/2606) | 실3 |
+|Week11| 분할정복 | [백준 - Z](https://www.acmicpc.net/problem/1074) | 실1 |
+|Week11| BFS,DFS | [백준 - 연결 요소의 개수](https://www.acmicpc.net/problem/11724) | 실2 |
+|Week11| 구현 | [백준 - 집합](https://www.acmicpc.net/problem/11723) | 실5 |
+|Week11| DP | [백준 - 피보나치 함수](https://www.acmicpc.net/problem/1003) | 실3  |
+|Week11| SQL-Select | [프로그래머스 - 과일로 만든 아이스크림 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/133025) | Lv1 |
+|Week11| SQL-Sum, Max, Min | [프로그래머스 - 가격이 제일 비싼 식품의 정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131115) | Lv2 |
+|Week11| SQL-Join | [프로그래머스 - 조건에 맞는 도서와 저자 리스트 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/144854) | Lv2 |
 |Week10| 구현 | [프로그래머스 - 정수를 나선형으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/181832) | Lv0 |
 |Week10| 조합 | [백준 - 다리놓기](https://www.acmicpc.net/problem/1010) | 실5 |
 |Week10| BFS,DFS | [백준 - 유기농 배추](https://www.acmicpc.net/problem/1012) | 실2 |

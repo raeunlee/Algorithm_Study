@@ -1,0 +1,36 @@
+# 백준 11723 : 집합
+
+import sys
+input = sys.stdin.readline
+
+S= set()
+m = int(input())
+
+for _ in range(m):
+    data = input().split()
+
+    if len(data) == 1:
+        if data[0] == 'all':
+            S = set([i for i in range(1,21)])
+        else:
+            S = set()
+    else:
+        string, x = data[0], int(data[1])
+
+        if string == 'add':
+            S.add(x)
+        elif string== 'check':
+            if x in S:
+                print('1')
+            else:
+                print('0')
+
+        elif string == 'remove':
+            if x in S:
+                S.remove(x)
+        elif string == 'toggle':
+            if x in S:
+                S.remove(x)
+            else:
+                S.add(x)
+
