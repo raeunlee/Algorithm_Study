@@ -1,0 +1,4 @@
+SELECT *
+FROM FOOD_PRODUCT
+ORDER BY PRICE DESC -- 가격 내림차순 
+LIMIT 2 -- 하나의 행만
