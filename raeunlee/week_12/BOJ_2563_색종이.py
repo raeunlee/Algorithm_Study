@@ -9,6 +9,6 @@ for _ in range(n):
 
 r = 0
 for i in paper:
-    r += sum(i)
+    r += i.count(1)
 
 print(r)
