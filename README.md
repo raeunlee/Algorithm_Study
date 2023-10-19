@@ -24,11 +24,14 @@
 
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
-|Week12| 시뮬레이션 | [백준- 스위치 켜고 끄기](https://www.acmicpc.net/problem/1244) | 실4 |
-|Week12| 시뮬레이션 | [백준 - 프린터 큐](https://www.acmicpc.net/problem/1966) | 실3 |
-|Week12| BFS,DFS | [백준 - 영역 구하기](https://www.acmicpc.net/problem/2583) | 실1 |
-|Week12| BFS,DFS | [백준 - 안전 영역](https://www.acmicpc.net/problem/2468) | 실1 |
-|Week12| 구현 | [백준 - 색종이](https://www.acmicpc.net/problem/2563) | 실5  |
+|Week13| DP | [백준- 스티커](https://www.acmicpc.net/problem/9465) | 실1 |
+|Week13| BFS,DFS | [백준 - 적록색약](https://www.acmicpc.net/problem/10026) | 골5 |
+|Week13| 문자열 | [백준 - 영단어 암기는 괴로워](https://www.acmicpc.net/problem/20920) | 실3 |
+|Week13| 구현 | [백준 - 덩치](https://www.acmicpc.net/problem/7568) | 실5 |
+|Week13| 구현 | [백준 - 올림픽](https://www.acmicpc.net/problem/8979) | 실5 |
+|Week13| SELECT | [프로그래머스 - 오프라인/온라인 판매 데이터 통합하기](https://school.programmers.co.kr/learn/courses/30/lessons/131537) | Lv4  |
+|Week13| GROUP BY | [프로그래머스 - 대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151139) | Lv3  |
+|Week13| SUM, MAX, MIN | [프로그래머스 - 중복 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/59408) | Lv2  |
 
 <br/>
 
@@ -54,8 +57,9 @@
 | week_08 | 09.11 ~ 09.17 |<-|-|-|프젝주간|-|-|->|
 | week_09 | 09.18 ~ 09.24 |<-|-|-|프젝주간|-|-|->|
 | week_10 | 09.25 ~ 10.1 |  ✅    |      |  🔺    |  ✅     |  ✅     |   ✅   |  🔺    |
-| week_11 | 10.2 ~ 10.8 |      |  🔺    |  ✅    |   ✅   |   ✅   |   ✅   |  🔺    |
-| week_12 | 10.9 ~ 10.15 |      |      |      |      |      |      |      |
+| week_11 | 10.2 ~ 10.8 |  🔺  |  🔺    |  ✅    |   ✅   |   ✅   |   ✅   |  🔺    |
+| week_12 | 10.9 ~ 10.15 |  🔺     |   ✅   |   ✅   |  🔺    |  ✅    |   ✅   |      |
+| week_13 | 10.16 ~ 10.22 |      |      |      |      |  ✅    |      |      |
 <br/>
 
 ## 스터디 룰
@@ -78,6 +82,11 @@
  
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
+|Week12| 시뮬레이션 | [백준- 스위치 켜고 끄기](https://www.acmicpc.net/problem/1244) | 실4 |
+|Week12| 시뮬레이션 | [백준 - 프린터 큐](https://www.acmicpc.net/problem/1966) | 실3 |
+|Week12| BFS,DFS | [백준 - 영역 구하기](https://www.acmicpc.net/problem/2583) | 실1 |
+|Week12| BFS,DFS | [백준 - 안전 영역](https://www.acmicpc.net/problem/2468) | 실1 |
+|Week12| 구현 | [백준 - 색종이](https://www.acmicpc.net/problem/2563) | 실5  |
 |Week11| BFS, DFS | [백준- 바이러스](https://www.acmicpc.net/problem/2606) | 실3 |
 |Week11| 분할정복 | [백준 - Z](https://www.acmicpc.net/problem/1074) | 실1 |
 |Week11| BFS,DFS | [백준 - 연결 요소의 개수](https://www.acmicpc.net/problem/11724) | 실2 |
