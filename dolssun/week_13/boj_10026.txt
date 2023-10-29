@@ -1,0 +1,47 @@
+# 백준 10026 : 적록색약
+
+import sys
+sys.setrecursionlimit = (10**6)
+input = sys.stdin.readline
+
+n = int(input().rstrip())
+visited = [[False]*n for _ in range(n)]
+arr = [list(input().rstrip()) for _ in range(n)]
+cnt2, cnt3 = 0,0
+
+dx = [-1,0,1,0]
+dy = [0,1,0,-1]
+
+def dfs(x,y):
+      visited[x][y] = True
+      color = arr[x][y]
+
+      for i in range(4):
+          nx = x + dx[i]
+          ny = y + dy[i]
+          if (0<=nx<n) and (0<=ny<n):
+              if visited[nx][ny] == False:
+                if arr[nx][ny] == color:
+                    dfs(nx,ny)
+
+
+for i in range(n):
+    for j in range(n):
+        if visited[i][j] == False:
+            dfs(i,j)
+            cnt3 += 1
+
+visited = [[False]*n for _ in range(n)]
+
+for i in range(n):
+    for j in range(n):
+        if arr[i][j] == 'R':
+            arr[i][j] = 'G'
+
+for i in range(n):
+    for j in range(n):
+        if visited[i][j] == False:
+            dfs(i,j)
+            cnt2 += 1
+
+print(cnt3, cnt2)
