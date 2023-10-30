@@ -28,7 +28,7 @@
 |Week15| 스택, 큐 | [프로그래머스 - 프로세스 ](https://school.programmers.co.kr/learn/courses/30/lessons/42587) | Lv2 |
 |Week15| 스택, 큐 | [프로그래머스 - 주식가격 ](https://school.programmers.co.kr/learn/courses/30/lessons/42584) | Lv2 |
 |Week15| 그리디 | [프로그래머스 - 체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862) | Lv1 |
-|Week15| 그리디 | [프로그래머스 - 큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) | Lv2 |
+|Week15| 그리디 | [프로그래머스 - 큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) | Lv2 |
 |Week15| 완전탐색 | [프로그래머스 - 전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) | Lv2 |
 |Week15| 힙 | [프로그래머스 - 이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628) | Lv3  |
 
