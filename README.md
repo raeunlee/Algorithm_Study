@@ -24,13 +24,13 @@
 
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
-|Week14| DP | [프로그래머스 - 도둑질 ](https://school.programmers.co.kr/learn/courses/30/lessons/42897) | Lv4 |
-|Week14| BFS,DFS | [프로그래머스 - 네트워크 ](https://school.programmers.co.kr/learn/courses/30/lessons/43162) | Lv3 |
-|Week14| 그리디 | [프로그래머스 - 섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861) | Lv3 |
-|Week14| 스택/큐 | [프로그래머스 - 기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) | Lv2 |
-|Week14| 완전탐색 | [프로그래머스 - 모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840) | Lv1 |
-|Week14| JOIN | [프로그래머스 - 상품 별 오프라인 매출 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131533) | Lv2 |
-|Week14| GROUP BY | [프로그래머스 - 즐겨찾기가 가장 많은 식당 정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131123) | Lv3  |
+|Week15| 문자열| [프로그래머스 - 옹알이 ](https://school.programmers.co.kr/learn/courses/30/lessons/120956) | Lv0 |
+|Week15| 스택, 큐 | [프로그래머스 - 프로세스 ](https://school.programmers.co.kr/learn/courses/30/lessons/42587) | Lv2 |
+|Week15| 스택, 큐 | [프로그래머스 - 주식가격 ](https://school.programmers.co.kr/learn/courses/30/lessons/42584) | Lv2 |
+|Week15| 그리디 | [프로그래머스 - 체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862) | Lv1 |
+|Week15| 그리디 | [프로그래머스 - 큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) | Lv2 |
+|Week15| 완전탐색 | [프로그래머스 - 전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) | Lv2 |
+|Week15| 힙 | [프로그래머스 - 이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628) | Lv3  |
 
 <br/>
 
@@ -58,8 +58,8 @@
 | week_10 | 09.25 ~ 10.1 |  ✅    |      |  🔺    |  ✅     |  ✅     |   ✅   |  🔺    |
 | week_11 | 10.2 ~ 10.8 |  🔺  |  🔺    |  ✅    |   ✅   |   ✅   |   ✅   |  🔺    |
 | week_12 | 10.9 ~ 10.15 |  🔺     |   ✅   |   ✅   |  🔺    |  ✅    |   ✅   |  ✅   |
-| week_13 | 10.16 ~ 10.22 |   ✅   |   ✅   |   ✅   |      |  ✅    |   ✅   |      |
-| week_14 | 10.23 ~ 10.29 |      |      |       |      |      |      |      |
+| week_13 | 10.16 ~ 10.22 |   ✅   |   ✅   |   ✅   |   ✅   |  ✅    |   ✅   |   🔺   |
+| week_14 | 10.23 ~ 10.29 |      |  ✅   |   ✅    |      |  ✅    |    ✅   |      |
 
 <br/>
 
@@ -83,6 +83,13 @@
  
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
+|Week14| DP | [프로그래머스 - 도둑질 ](https://school.programmers.co.kr/learn/courses/30/lessons/42897) | Lv4 |
+|Week14| BFS,DFS | [프로그래머스 - 네트워크 ](https://school.programmers.co.kr/learn/courses/30/lessons/43162) | Lv3 |
+|Week14| 그리디 | [프로그래머스 - 섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861) | Lv3 |
+|Week14| 스택/큐 | [프로그래머스 - 기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) | Lv2 |
+|Week14| 완전탐색 | [프로그래머스 - 모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840) | Lv1 |
+|Week14| JOIN | [프로그래머스 - 상품 별 오프라인 매출 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131533) | Lv2 |
+|Week14| GROUP BY | [프로그래머스 - 즐겨찾기가 가장 많은 식당 정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131123) | Lv3  |
 |Week13| DP | [백준- 스티커](https://www.acmicpc.net/problem/9465) | 실1 |
 |Week13| BFS,DFS | [백준 - 적록색약](https://www.acmicpc.net/problem/10026) | 골5 |
 |Week13| 문자열 | [백준 - 영단어 암기는 괴로워](https://www.acmicpc.net/problem/20920) | 실3 |
