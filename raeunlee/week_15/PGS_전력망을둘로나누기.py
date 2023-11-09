@@ -24,7 +24,7 @@ def solution(n, wires):
         graph[v1].append(v2)
         graph[v2].append(v1)
             
-    for start, not_visit in wires: #연결 시작,끝 점
+    for start, not_visit in wires: #연결 시작, 끝 점
         visited = [False]*(n+1)
         visited[not_visit] = True 
         result = bfs(start,visited,graph) #해당 선을 끊어서 그 결과를 result에 저장
