@@ -15,5 +15,5 @@ function solution(N, number) {
         if (set[i].has(number))
             return i + 1;
     }
-    return -1;노
+    return -1;
 }
