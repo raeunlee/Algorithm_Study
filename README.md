@@ -24,14 +24,14 @@
 
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
-|Week16| 분할정복 | [백준 - 곱셈](https://www.acmicpc.net/problem/1629) | 실1 |
-|Week16| 브루트포스| [백준 - 테트로미노](https://www.acmicpc.net/problem/14500) | 골4 |
-|Week16| DFS/BFS | [백준 - DSLR](https://www.acmicpc.net/problem/9019) | 골4 |
-|Week16| DFS/BFS | [프로그래머스 - 단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163) | Lv3 |
-|Week16| DP | [프로그래머스 - N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895) | Lv3 |
-|Week16| SQL - Join | [프로그래머스 - 특정 기간동안 대여 가능한 자동차들의 대여비용 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157339) | Lv4 |
-|Week16| SQL - String, Date| [프로그래머스 - 자동차 대여 기록 별 대여 금액 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151141) | Lv4 |
-|Week16| SQL - String, Date| [프로그래머스 - 취소되지 않은 진료 예약 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/132204) | Lv4 |
+|Week17| 스택, 큐 | [프로그래머스 - 올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | Lv2 |
+|Week17| 그리디 | [프로그래머스 - 조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860) | Lv2 |
+|Week17| 완전탐색 | [프로그래머스 - 소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839) | Lv2 |
+|Week17| DFS/BFS | [프로그래머스 - 여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164) | Lv3 |
+|Week17| DP | [프로그래머스 - 정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105) | Lv3 |
+|Week17| SQL - GROUP BY | [프로그래머스 - 동명 동물 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59041) | Lv2 |
+|Week17| SQL - Join | [프로그래머스 - 없어진 기록 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59042) | Lv3 |
+|Week17| SQL - Join | [프로그래머스 - 있었는데요 없었습니다](https://school.programmers.co.kr/learn/courses/30/lessons/59043) | Lv3 |
 
 
 <br/>
@@ -64,6 +64,7 @@
 | week_14 | 10.23 ~ 10.29 |   🔺    |  ✅   |   ✅    |      |  ✅    |    ✅   |      |
 | week_15 | 10.30 ~ 11.5 |    🔺   |   🔺   |   ✅   |      |  ✅    |   ✅    |      |
 | week_16 | 11.6 ~ 11.12 |      |   ✅   |      |      |   ✅    |   ✅    |      |
+| week_17 | 11.13 ~ 11.19 |      |      |      |      |      |      |      |
 
 <br/>
 
@@ -87,6 +88,14 @@
  
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
+|Week16| 분할정복 | [백준 - 곱셈](https://www.acmicpc.net/problem/1629) | 실1 |
+|Week16| 브루트포스| [백준 - 테트로미노](https://www.acmicpc.net/problem/14500) | 골4 |
+|Week16| DFS/BFS | [백준 - DSLR](https://www.acmicpc.net/problem/9019) | 골4 |
+|Week16| DFS/BFS | [프로그래머스 - 단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163) | Lv3 |
+|Week16| DP | [프로그래머스 - N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895) | Lv3 |
+|Week16| SQL - Join | [프로그래머스 - 특정 기간동안 대여 가능한 자동차들의 대여비용 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157339) | Lv4 |
+|Week16| SQL - String, Date| [프로그래머스 - 자동차 대여 기록 별 대여 금액 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151141) | Lv4 |
+|Week16| SQL - String, Date| [프로그래머스 - 취소되지 않은 진료 예약 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/132204) | Lv4 |
 |Week15| 문자열| [프로그래머스 - 옹알이 ](https://school.programmers.co.kr/learn/courses/30/lessons/120956) | Lv0 |
 |Week15| 스택, 큐 | [프로그래머스 - 프로세스 ](https://school.programmers.co.kr/learn/courses/30/lessons/42587) | Lv2 |
 |Week15| 스택, 큐 | [프로그래머스 - 주식가격 ](https://school.programmers.co.kr/learn/courses/30/lessons/42584) | Lv2 |
