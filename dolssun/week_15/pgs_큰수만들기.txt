@@ -1,0 +1,28 @@
+
+def solution(number, k):
+    stack = [] # 스택
+    for num in number:
+        while k>0 and stack and stack[-1]<num:
+            stack.pop()
+            k -= 1
+        stack.append(num)
+    answer = ''.join(stack[:len(stack)-k])
+    
+    return answer
+
+
+
+
+# from itertools import *
+# def solution(number, k):
+#     answer = ''
+#     num = list(number)
+# #   answer = list[combinations(list(number), len(number)-k)]
+
+
+#     for i in combinations(num,len(num)-k):
+#         tmp = ''.join(i)
+#         if answer < tmp:
+#             answer = tmp
+
+#     return answer
