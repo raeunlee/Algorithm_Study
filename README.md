@@ -24,14 +24,14 @@
 
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
-|Week17| 스택, 큐 | [프로그래머스 - 올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | Lv2 |
-|Week17| 그리디 | [프로그래머스 - 조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860) | Lv2 |
-|Week17| 완전탐색 | [프로그래머스 - 소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839) | Lv2 |
-|Week17| DFS/BFS | [프로그래머스 - 여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164) | Lv3 |
-|Week17| DP | [프로그래머스 - 정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105) | Lv3 |
-|Week17| SQL - GROUP BY | [프로그래머스 - 동명 동물 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59041) | Lv2 |
-|Week17| SQL - Join | [프로그래머스 - 없어진 기록 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59042) | Lv3 |
-|Week17| SQL - Join | [프로그래머스 - 있었는데요 없었습니다](https://school.programmers.co.kr/learn/courses/30/lessons/59043) | Lv3 |
+|Week18| 구현 | [소프티어 - GBC](https://softeer.ai/practice/6270) | Lv2 |
+|Week18| 정렬 | [소프티어 - 금고털이](https://softeer.ai/practice/6288) | Lv2 |
+|Week18| 구현 | [소프티어 - 전광판](https://softeer.ai/practice/6268) | Lv2 |
+|Week18| DFS/BFS | [소프티어 - 장애물 인식 프로그램](https://softeer.ai/practice/6282) | Lv2 |
+|Week18| DP | [소프티어 - 지도 자동 구축](https://softeer.ai/practice/6280) | Lv2 |
+|Week18| SQL - IS NULL | [프로그래머스 - NULL 처리하기](https://school.programmers.co.kr/learn/courses/30/lessons/59410) | Lv2 |
+|Week18| SQL - Join | [프로그래머스 - 그룹별 조건에 맞는 식당 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131124) | Lv4 |
+|Week18| SQL - Join | [프로그래머스 - 오랜 기간 보호한 동물(1)](https://school.programmers.co.kr/learn/courses/30/lessons/59044) | Lv3 |
 
 
 <br/>
@@ -62,9 +62,9 @@
 | week_12 | 10.9 ~ 10.15 |  🔺     |   ✅   |   ✅   |  🔺    |  ✅    |   ✅   |  ✅   |
 | week_13 | 10.16 ~ 10.22 |   ✅   |   ✅   |   ✅   |   ✅   |  ✅    |   ✅   |   🔺   |
 | week_14 | 10.23 ~ 10.29 |   🔺    |  ✅   |   ✅    |  🔺    |  ✅    |    ✅   |      |
-| week_15 | 10.30 ~ 11.5 |    🔺   |   🔺   |   ✅   |  🔺    |  ✅    |   ✅    |      |
-| week_16 | 11.6 ~ 11.12 |      |   ✅   |      | ❌ |   ✅    |   ✅    |      |
-| week_17 | 11.13 ~ 11.19 |      |      |      |      |  ✅    |   ✅   |      |
+| week_15 | 10.30 ~ 11.5 |    ✅     |   🔺   |   ✅   |  🔺    |  ✅    |   ✅    |      |
+| week_16 | 11.6 ~ 11.12 |    🔺  |   ✅   |   ❌   | ❌ |   ✅    |   ✅    |      |
+| week_17 | 11.13 ~ 11.19 |   ✅   |   ✅   |   🔺   |      |  ✅    |   ✅   |      |
 
 <br/>
 
@@ -88,6 +88,14 @@
  
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
+|Week17| 스택, 큐 | [프로그래머스 - 올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | Lv2 |
+|Week17| 그리디 | [프로그래머스 - 조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860) | Lv2 |
+|Week17| 완전탐색 | [프로그래머스 - 소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839) | Lv2 |
+|Week17| DFS/BFS | [프로그래머스 - 여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164) | Lv3 |
+|Week17| DP | [프로그래머스 - 정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105) | Lv3 |
+|Week17| SQL - GROUP BY | [프로그래머스 - 동명 동물 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59041) | Lv2 |
+|Week17| SQL - Join | [프로그래머스 - 없어진 기록 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59042) | Lv3 |
+|Week17| SQL - Join | [프로그래머스 - 있었는데요 없었습니다](https://school.programmers.co.kr/learn/courses/30/lessons/59043) | Lv3 |
 |Week16| 분할정복 | [백준 - 곱셈](https://www.acmicpc.net/problem/1629) | 실1 |
 |Week16| 브루트포스| [백준 - 테트로미노](https://www.acmicpc.net/problem/14500) | 골4 |
 |Week16| DFS/BFS | [백준 - DSLR](https://www.acmicpc.net/problem/9019) | 골4 |
