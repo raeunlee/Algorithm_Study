@@ -1,5 +1,3 @@
-import sys
-from collections import deque
 
 # 배당 무게 w, 귀금속 종류 n
 w, n = map(int, input().split())
