@@ -15,7 +15,7 @@
     <td align="center"><a href="https://github.com/hurdong"><b>허동민</b></a></td>
     <td align="center"><a href="https://github.com/hejoo345"><b>김희주</b></a></td>
     <td align="center"><a href="https://github.com/SuHyeon2Park"><b>박수현</b></a></td>
-    <td align="center"><a href="https://github.com/sys98sys"><b>신윤철</b></a></td>
+    <td align="center"><a href="https://github.com/syc98syc"><b>신윤철</b></a></td>
   </tr>
 </table>
 
