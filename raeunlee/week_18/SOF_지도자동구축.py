@@ -1,4 +1,3 @@
-import sys
 
 N = int(input())
 mac = [0] * 16

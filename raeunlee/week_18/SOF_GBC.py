@@ -1,5 +1,3 @@
-import sys
-from collections import deque
 
 n, m = map(int, input().split())
 part_speed = [0] * 101
