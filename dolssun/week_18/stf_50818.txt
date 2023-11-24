@@ -1,0 +1,44 @@
+import sys
+input = sys.stdin.readline
+
+n = int(input())
+block = []
+visited = [[False]*n for _ in range(n)]
+for _ in range(n):
+  block.append(list(map(int, input().rstrip())))
+
+# 소프티어 : 장애물 인식 프로그램
+
+global check
+check = 0
+def dfs(x,y):
+  global check
+  if x<0 or y<0 or x>=n or y>=n or block[x][y] == 0:
+    return False
+
+  if block[x][y] != 0 and visited[x][y]==False :
+    visited[x][y] = True
+    check += 1
+    dfs(x-1,y)
+    dfs(x,y+1)
+    dfs(x+1,y)
+    dfs(x,y-1)
+    return True
+  return False
+
+  
+answer = []
+total=0
+for i in range(n):
+  for j in range(n):
+    if dfs(i,j) == True:
+      total += 1
+      #print(f'{i},{j}={check}')
+      answer.append(check)
+      check = 0
+  
+
+print(total)
+answer.sort()
+for i in answer:
+  print(i)
