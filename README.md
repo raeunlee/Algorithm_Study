@@ -29,7 +29,7 @@
 |Week19| 구현 | [소프티어 - 성적 평균](https://softeer.ai/practice/6294) | Lv3 |
 |Week19| DFS/BFS | [백준 - 케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389)| 실1 |
 |Week19| 정렬 | [백준 - 좌표압축](https://www.acmicpc.net/problem/18870) | 실2 |
-|Week19| DP | [백준 - 2xn 타일링](https://www.acmicpc.net/problem/11726)) | 실3 |
+|Week19| DP | [백준 - 2xn 타일링](https://www.acmicpc.net/problem/11726) | 실3 |
 |Week19| SQL - String, Date  | [프로그래머스 - 루시와 엘라 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59046) | Lv2 |
 |Week19| SQL - Join | [프로그래머스 - 보호소에서 중성화한 동물](https://school.programmers.co.kr/learn/courses/30/lessons/59045) | Lv4 |
 |Week19| SQL - Join | [프로그래머스 - 우유와 요거트가 담긴 장바구니](https://school.programmers.co.kr/learn/courses/30/lessons/62284) | Lv4 |
