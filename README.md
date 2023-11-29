@@ -25,14 +25,14 @@
 
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
-|Week18| 구현 | [소프티어 - GBC](https://softeer.ai/practice/6270) | Lv2 |
-|Week18| 정렬 | [소프티어 - 금고털이](https://softeer.ai/practice/6288) | Lv2 |
-|Week18| 구현 | [소프티어 - 전광판](https://softeer.ai/practice/6268) | Lv2 |
-|Week18| DFS/BFS | [소프티어 - 장애물 인식 프로그램](https://softeer.ai/practice/6282) | Lv2 |
-|Week18| DP | [소프티어 - 지도 자동 구축](https://softeer.ai/practice/6280) | Lv2 |
-|Week18| SQL - IS NULL | [프로그래머스 - NULL 처리하기](https://school.programmers.co.kr/learn/courses/30/lessons/59410) | Lv2 |
-|Week18| SQL - Join | [프로그래머스 - 그룹별 조건에 맞는 식당 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131124) | Lv4 |
-|Week18| SQL - Join | [프로그래머스 - 오랜 기간 보호한 동물(1)](https://school.programmers.co.kr/learn/courses/30/lessons/59044) | Lv3 |
+|Week19| 구현 | [소프티어 - 회의실 예약](https://softeer.ai/practice/6266) | Lv2 |
+|Week19| 구현 | [소프티어 - 성적 평균](https://softeer.ai/practice/6294) | Lv3 |
+|Week19| DFS/BFS | [백준 - 케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389)| 실1 |
+|Week19| 정렬 | [백준 - 좌표압축](https://www.acmicpc.net/problem/18870) | 실2 |
+|Week19| DP | [백준 - 2xn 타일링](https://www.acmicpc.net/problem/11726)| 실3 |
+|Week19| SQL - String, Date  | [프로그래머스 - 루시와 엘라 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59046) | Lv2 |
+|Week19| SQL - Join | [프로그래머스 - 보호소에서 중성화한 동물](https://school.programmers.co.kr/learn/courses/30/lessons/59045) | Lv4 |
+|Week19| SQL - Join | [프로그래머스 - 우유와 요거트가 담긴 장바구니](https://school.programmers.co.kr/learn/courses/30/lessons/62284) | Lv4 |
 
 
 <br/>
@@ -62,11 +62,12 @@
 | week_11 | 10.02 ~ 10.08 |   🔺   |   🔺   |   ✅   |   ✅   |   ✅   |   ✅   |   🔺   |   -   |
 | week_12 | 10.09 ~ 10.15 |   🔺   |   ✅   |   ✅   |   🔺   |   ✅   |   ✅   |   ✅   |   -   |
 | week_13 | 10.16 ~ 10.22 |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   🔺   |   -   |
-| week_14 | 10.23 ~ 10.29 |   🔺   |   ✅   |   ✅   |   🔺   |   ✅   |   ✅   |       |   -   |
-| week_15 | 10.30 ~ 11.05 |   ✅   |   🔺   |   ✅   |   🔺   |   ✅   |   ✅   |       |   -   |
-| week_16 | 11.06 ~ 11.12 |   🔺   |   ✅   |   ❌   |   ❌   |   ✅   |   ✅   |       |   -   |
-| week_17 | 11.13 ~ 11.19 |   ✅   |   ✅   |   🔺   |       |   ✅   |   ✅   |       |   -   |
-| week_18 | 11.20 ~ 11.26 |       |       |       |       |       |       |       |       |
+| week_14 | 10.23 ~ 10.29 |   🔺   |   ✅   |   ✅   |   🔺   |   ✅   |   ✅   |  ❌   |   -   |
+| week_15 | 10.30 ~ 11.05 |   ✅   |   🔺   |   ✅   |   🔺   |   ✅   |   ✅   |    ❌  |   -   |
+| week_16 | 11.06 ~ 11.12 |   🔺   |   ✅   |   ❌   |   ❌   |   ✅   |   ✅   |  ❌   |   -   |
+| week_17 | 11.13 ~ 11.19 |   ✅   |   ✅   |   🔺   |       |   ✅   |   ✅   |  ❌ |   -   |
+| week_18 | 11.20 ~ 11.26 |   ✅     |       |   ✅   |   ✅   |   ✅    |   ✅    |   ❌  |       |
+| week_19 | 11.27 ~ 12.03 |        |       |      |      |       |       |       |       |
 
 <br/>
 
@@ -90,6 +91,14 @@
  
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
+|Week18| 구현 | [소프티어 - GBC](https://softeer.ai/practice/6270) | Lv2 |
+|Week18| 정렬 | [소프티어 - 금고털이](https://softeer.ai/practice/6288) | Lv2 |
+|Week18| 구현 | [소프티어 - 전광판](https://softeer.ai/practice/6268) | Lv2 |
+|Week18| DFS/BFS | [소프티어 - 장애물 인식 프로그램](https://softeer.ai/practice/6282) | Lv2 |
+|Week18| DP | [소프티어 - 지도 자동 구축](https://softeer.ai/practice/6280) | Lv2 |
+|Week18| SQL - IS NULL | [프로그래머스 - NULL 처리하기](https://school.programmers.co.kr/learn/courses/30/lessons/59410) | Lv2 |
+|Week18| SQL - Join | [프로그래머스 - 그룹별 조건에 맞는 식당 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131124) | Lv4 |
+|Week18| SQL - Join | [프로그래머스 - 오랜 기간 보호한 동물(1)](https://school.programmers.co.kr/learn/courses/30/lessons/59044) | Lv3 |
 |Week17| 스택, 큐 | [프로그래머스 - 올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | Lv2 |
 |Week17| 그리디 | [프로그래머스 - 조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860) | Lv2 |
 |Week17| 완전탐색 | [프로그래머스 - 소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839) | Lv2 |
