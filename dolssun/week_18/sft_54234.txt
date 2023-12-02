@@ -1,0 +1,35 @@
+import sys
+input = sys.stdin.readline
+# 소프티어 - 전광판
+
+number = {
+  '0' : [1,1,1,1,1,1,0],
+  '1' : [0,1,1,0,0,0,0],
+  '2' : [1,1,0,1,1,0,1],
+  '3' : [1,1,1,1,0,0,1],
+  '4' : [0,1,1,0,0,1,1],
+  '5' : [1,0,1,1,0,1,1],
+  '6' : [1,0,1,1,1,1,1],
+  '7' : [1,1,1,0,0,1,0],
+  '8' : [1,1,1,1,1,1,1],
+  '9' : [1,1,1,1,0,1,1],
+  ' ' : [0,0,0,0,0,0,0]
+}
+
+t = int(input())
+for _ in range(t):
+  a,b = input().split()
+
+  max_len = max(len(a),len(b)) 
+  a = a.rjust(max_len)
+  b = b.rjust(max_len)
+  
+  answer = 0
+  for i in range(max_len):
+    a_li = number.get(a[i])
+    b_li = number.get(b[i])
+
+    for j in range(7):
+      if a_li[j] != b_li[j]:
+        answer += 1
+  print(answer)
