@@ -27,8 +27,8 @@
 |:---:|:---:|:---:|:---:|
 |Week21| 부르트포스 | [백준 - 리모콘](https://www.acmicpc.net/problem/1107) | 골5 |
 |Week21| 문자열 | [백준 - 듣보잡](https://www.acmicpc.net/problem/1764) | 실4 |
-|Week21| DP | [백준 - 계단오르기](https://www.acmicpc.net/problem/2579)| 실3 |
-|Week21| DP | [프로그래머스 - 야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927) | Lv3 |
+|Week21| DP | [백준 - 계단오르기](https://www.acmicpc.net/problem/2579)| 실3 |
+|Week21| DP | [프로그래머스 - 야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927) | Lv3 |
 |Week21| 이분탐색 | [프로그래머스 - 입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)| Lv3 |
 |Week21| 해시  | [프로그래머스 - 베스트엘범](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | Lv3 |
 |Week21| SQL - JOIN | [프로그래머스 - 상품을 구매한 회원 비율 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131534) | Lv5 |
