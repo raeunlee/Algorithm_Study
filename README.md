@@ -32,7 +32,7 @@
 |Week21| 이분탐색 | [프로그래머스 - 입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)| Lv3 |
 |Week21| 해시  | [프로그래머스 - 베스트엘범](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | Lv3 |
 |Week21| SQL - JOIN | [프로그래머스 - 상품을 구매한 회원 비율 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131534) | Lv5 |
-|Week21| SQL - STRING, DATE | [프로그래머스 - 취소되지 않은 진료 예약 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/132204) | Lv4 |
+|Week21| SQL - STRING,DATE | [프로그래머스 - 취소되지 않은 진료 예약 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/132204) | Lv4 |
 
 
 <br/>
