@@ -25,14 +25,14 @@
 
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
-|Week21| 부르트포스 | [백준 - 리모콘](https://www.acmicpc.net/problem/1107) | 골5 |
-|Week21| 문자열 | [백준 - 듣보잡](https://www.acmicpc.net/problem/1764) | 실4 |
-|Week21| DP | [백준 - 계단오르기](https://www.acmicpc.net/problem/2579)| 실3 |
-|Week21| DP | [프로그래머스 - 야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927) | Lv3 |
-|Week21| 이분탐색 | [프로그래머스 - 입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)| Lv3 |
-|Week21| 해시  | [프로그래머스 - 베스트엘범](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | Lv3 |
-|Week21| SQL - JOIN | [프로그래머스 - 상품을 구매한 회원 비율 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131534) | Lv5 |
-|Week21| SQL - STRING,DATE | [프로그래머스 - 취소되지 않은 진료 예약 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/132204) | Lv4 |
+|Week22| 해시 | [백준 - 비밀번호 찾기](https://www.acmicpc.net/problem/17219) | 실4 |
+|Week22| 브루트포스 | [백준 - 카잉달력](https://www.acmicpc.net/problem/6064) | 실1 |
+|Week22| 최단경로 | [백준 - 웜홀 ](https://www.acmicpc.net/problem/1865)| 골3 |
+|Week22| BFS/DFS | [프로그래머스 - 퍼즐 조각 채우기](https://school.programmers.co.kr/learn/courses/30/lessons/84021) | Lv3 |
+|Week22| 그리디 | [프로그래머스 - 단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)| Lv3 |
+|Week22| SQL - SUM,MAX,MIN | [프로그래머스 - 최솟값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59038) | Lv2 |
+|Week22| SQL - GROUP BY | [프로그래머스 - 조건에 맞는 사용자와 총 거래금액 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164668) | Lv3 |
+|Week22| SQL - GROUP BY | [프로그래머스 - 식품분류별 가장 비싼 식품의 정보 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/131116) | Lv4 |
 
 
 <br/>
@@ -69,7 +69,9 @@
 | week_18 | 11.20 ~ 11.26 |   ✅     |  ✅    |   ✅   |   ✅   |   ✅    |   ✅    |   ❌  |    🔺   |
 | week_19 | 11.27 ~ 12.03 |      ✅  |   🔺    |      |      |    ✅   |   ✅    |   ✅  |   ✅    |
 | week_20 | 12.04 ~ 12.10 |       |   ✅   |      |      |   ✅   |   ✅   |   ✅  |     |
-| week_21 | 12.11 ~ 12.17 |       |      |      |      |   ✅    |   ✅   |     |     |
+| week_21 | 12.11 ~ 12.17 |       |   ✅   |      |      |   ✅    |   ✅   |     |     |
+| week_22 | 12.18 ~ 12.24 |       |      |      |      |       |      |     |     |
+
 
 
 <br/>
@@ -94,6 +96,14 @@
  
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
+|Week21| 부르트포스 | [백준 - 리모콘](https://www.acmicpc.net/problem/1107) | 골5 |
+|Week21| 문자열 | [백준 - 듣보잡](https://www.acmicpc.net/problem/1764) | 실4 |
+|Week21| DP | [백준 - 계단오르기](https://www.acmicpc.net/problem/2579)| 실3 |
+|Week21| DP | [프로그래머스 - 야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927) | Lv3 |
+|Week21| 이분탐색 | [프로그래머스 - 입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)| Lv3 |
+|Week21| 해시  | [프로그래머스 - 베스트엘범](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | Lv3 |
+|Week21| SQL - JOIN | [프로그래머스 - 상품을 구매한 회원 비율 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131534) | Lv5 |
+|Week21| SQL - STRING,DATE | [프로그래머스 - 취소되지 않은 진료 예약 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/132204) | Lv4 |
 |Week20| 그리디 | [백준 - 에너지 드링크](https://www.acmicpc.net/problem/20115) | 실3 |
 |Week20| 자료구조 | [백준 - 에디터](https://www.acmicpc.net/problem/1406) | 실2 |
 |Week20| 이분탐색 | [백준 - 랜선 자르기](https://www.acmicpc.net/problem/1654)| 실2 |
