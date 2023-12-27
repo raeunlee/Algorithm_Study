@@ -10,6 +10,6 @@ else: #계단이 3개 이상
     dp[1] = s[0] + s[1] #첫쨰 + 둘째 계단
    
     for i in range(2, n):
-       dp[i]=max(dp[i-3]+s[i-1]+s[i], dp[i-2]+s[i])
+        dp[i]=max(dp[i-3]+s[i-1]+s[i], dp[i-2]+s[i])
 
     print(dp[-1])
