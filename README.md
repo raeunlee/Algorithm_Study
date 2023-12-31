@@ -15,6 +15,7 @@
     <td align="center"><a href="https://github.com/hurdong"><b>허동민</b></a></td>
     <td align="center"><a href="https://github.com/hejoo345"><b>김희주</b></a></td>
     <td align="center"><a href="https://github.com/SuHyeon2Park"><b>박수현</b></a></td>
+    <td align="center"><a href="https://github.com/syc98syc"><b>신윤철</b></a></td>
   </tr>
 </table>
 
@@ -24,15 +25,14 @@
 
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
-|Week18| 구현 | [소프티어 - GBC](https://softeer.ai/practice/6270) | Lv2 |
-|Week18| 정렬 | [소프티어 - 금고털이](https://softeer.ai/practice/6288) | Lv2 |
-|Week18| 구현 | [소프티어 - 전광판](https://softeer.ai/practice/6268) | Lv2 |
-|Week18| DFS/BFS | [소프티어 - 장애물 인식 프로그램](https://softeer.ai/practice/6282) | Lv2 |
-|Week18| DP | [소프티어 - 지도 자동 구축](https://softeer.ai/practice/6280) | Lv2 |
-|Week18| SQL - IS NULL | [프로그래머스 - NULL 처리하기](https://school.programmers.co.kr/learn/courses/30/lessons/59410) | Lv2 |
-|Week18| SQL - Join | [프로그래머스 - 그룹별 조건에 맞는 식당 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131124) | Lv4 |
-|Week18| SQL - Join | [프로그래머스 - 오랜 기간 보호한 동물(1)](https://school.programmers.co.kr/learn/courses/30/lessons/59044) | Lv3 |
-
+|Week23| 그리디 | [백준 - 등수 매기기](https://www.acmicpc.net/problem/2012) | 실3 |
+|Week23| 시뮬레이션 | [백준 - 치킨 배달](https://www.acmicpc.net/problem/15686) | 골5 |
+|Week23| 문자열 | [백준 - 크로스워드 퍼즐 쳐다보기 ](https://www.acmicpc.net/problem/3005)| 실3 |
+|Week23| 누적합 | [백준 - 피아노 체조](https://www.acmicpc.net/problem/21318)| 실1 |
+|Week23| DP | [프로그래머스 - 등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898) | Lv3 |
+|Week23| SQL - GROUP BY | [프로그래머스 - 가격대 별 상품 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131530) | Lv2 |
+|Week23| SQL - JOIN | [프로그래머스 - 헤비 유저가 소유한 장소](https://school.programmers.co.kr/learn/courses/30/lessons/77487) | Lv3 |
+|Week23| SQL - GROUP BY | [프로그래머스 - 년, 월, 성별 별 상품 구매 회원 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131532) | Lv4 |
 
 <br/>
 
@@ -46,25 +46,33 @@
 
 <br>
 
-|   주차    |      날짜       | 이라은 | 이원규 | 김준일 | 김은진 | 허동민 | 김희주 | 박수현 | 
-|:-------:|:-------------:|:-------:|:---------:|:--------:|:------------:|:------------:|:------------:|:------------:|
-| week_01 | 07.25 ~ 07.30 |   🔺     |    ✅     |    ✅    |    🔺      |-|||
-| week_02 | 07.31 ~ 08.06 |   🔺      |   ✅     |    ✅         |    🔺       |-|||
-| week_03 | 08.07 ~ 08.13 |   ✅     |   ✅     |  🔺       |    🔺       |-|||
-| week_04 | 08.14 ~ 08.20 |   🔺    |   ✅     | ✅     |    ✅       |-|||
-| week_05 | 08.21 ~ 08.27 |   ✅     |   🔺    | ✅     |    ✅       |-|||
-| week_06 | 08.28 ~ 09.03 |   ✅     |   ✅    | 🔺     |    🔺   |-|||
-| week_07 | 09.04 ~ 09.10 |<-|-|-|프젝주간|-|-|->|
-| week_08 | 09.11 ~ 09.17 |<-|-|-|프젝주간|-|-|->|
-| week_09 | 09.18 ~ 09.24 |<-|-|-|프젝주간|-|-|->|
-| week_10 | 09.25 ~ 10.1 |  ✅    |      |  🔺    |  ✅     |  ✅     |   ✅   |  🔺    |
-| week_11 | 10.2 ~ 10.8 |  🔺  |  🔺    |  ✅    |   ✅   |   ✅   |   ✅   |  🔺    |
-| week_12 | 10.9 ~ 10.15 |  🔺     |   ✅   |   ✅   |  🔺    |  ✅    |   ✅   |  ✅   |
-| week_13 | 10.16 ~ 10.22 |   ✅   |   ✅   |   ✅   |   ✅   |  ✅    |   ✅   |   🔺   |
-| week_14 | 10.23 ~ 10.29 |   🔺    |  ✅   |   ✅    |  🔺    |  ✅    |    ✅   |      |
-| week_15 | 10.30 ~ 11.5 |    ✅     |   🔺   |   ✅   |  🔺    |  ✅    |   ✅    |      |
-| week_16 | 11.6 ~ 11.12 |    🔺  |   ✅   |   ❌   | ❌ |   ✅    |   ✅    |      |
-| week_17 | 11.13 ~ 11.19 |   ✅   |   ✅   |   🔺   |      |  ✅    |   ✅   |      |
+|   주차    |      날짜       | 이라은 | 이원규 | 김준일 | 김은진 | 허동민 | 김희주 | 박수현 | 신윤철 |
+|:-------:|:-------------:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+| week_01 | 07.25 ~ 07.30 |   🔺   |   ✅   |   ✅   |   🔺   |   -    |       |       |   -   |
+| week_02 | 07.31 ~ 08.06 |   🔺   |   ✅   |   ✅   |   🔺   |   -    |       |       |   -   |
+| week_03 | 08.07 ~ 08.13 |   ✅   |   ✅   |   🔺   |   🔺   |   -    |       |       |   -   |
+| week_04 | 08.14 ~ 08.20 |   🔺   |   ✅   |   ✅   |   ✅   |   -    |       |       |   -   |
+| week_05 | 08.21 ~ 08.27 |   ✅   |   🔺   |   ✅   |   ✅   |   -    |       |       |   -   |
+| week_06 | 08.28 ~ 09.03 |   ✅   |   ✅   |   🔺   |   🔺   |   -    |       |       |   -   |
+| week_07 | 09.04 ~ 09.10 |   <-   |   -   |   -   | 프젝주간 |   -   |   -   |   -  |   ->   |
+| week_08 | 09.11 ~ 09.17 |   <-   |   -   |   -   | 프젝주간 |   -   |   -   |   -  |   ->   |
+| week_09 | 09.18 ~ 09.24 |   <-   |   -   |   -   | 프젝주간 |   -   |   -   |   -  |   ->   |
+| week_10 | 09.25 ~ 10.01 |   ✅   |       |   🔺   |   ✅   |   ✅   |   ✅   |   🔺   |   -   |
+| week_11 | 10.02 ~ 10.08 |   🔺   |   🔺   |   ✅   |   ✅   |   ✅   |   ✅   |   🔺   |   -   |
+| week_12 | 10.09 ~ 10.15 |   🔺   |   ✅   |   ✅   |   🔺   |   ✅   |   ✅   |   ✅   |   -   |
+| week_13 | 10.16 ~ 10.22 |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   🔺   |   -   |
+| week_14 | 10.23 ~ 10.29 |   🔺   |   ✅   |   ✅   |   🔺   |   ✅   |   ✅   |  ❌   |   -   |
+| week_15 | 10.30 ~ 11.05 |   ✅   |   🔺   |   ✅   |   🔺   |   ✅   |   ✅   |    ❌  |   -   |
+| week_16 | 11.06 ~ 11.12 |   🔺   |   ✅   |   ❌   |   ❌   |   ✅   |   ✅   |  ❌   |   -   |
+| week_17 | 11.13 ~ 11.19 |   ✅   |   ✅   |   🔺   |       |   ✅   |   ✅   |  ❌ |   -   |
+| week_18 | 11.20 ~ 11.26 |   ✅     |  ✅    |   ✅   |   ✅   |   ✅    |   ✅    |   ❌  |    🔺   |
+| week_19 | 11.27 ~ 12.03 |      ✅  |   🔺    |      |      |    ✅   |   ✅    |   ✅  |   ✅    |
+| week_20 | 12.04 ~ 12.10 |       |   ✅   |      |      |   ✅   |   ✅   |   ✅  |     |
+| week_21 | 12.11 ~ 12.17 |       |   ✅   |      |      |   ✅    |   ✅   |  🔺  |     |
+| week_22 | 12.18 ~ 12.24 |       |      |      |      |  ✅     |   ✅   |   ✅   |  ✅    |
+| week_23 | 12.25 ~ 12.31 |       |      |      |      |      |      |      |      |
+
+
 
 <br/>
 
@@ -88,6 +96,46 @@
  
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
+|Week22| 해시 | [백준 - 비밀번호 찾기](https://www.acmicpc.net/problem/17219) | 실4 |
+|Week22| 브루트포스 | [백준 - 카잉달력](https://www.acmicpc.net/problem/6064) | 실1 |
+|Week22| 최단경로 | [백준 - 웜홀 ](https://www.acmicpc.net/problem/1865)| 골3 |
+|Week22| BFS/DFS | [프로그래머스 - 퍼즐 조각 채우기](https://school.programmers.co.kr/learn/courses/30/lessons/84021) | Lv3 |
+|Week22| 그리디 | [프로그래머스 - 단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)| Lv3 |
+|Week22| SQL - SUM,MAX,MIN | [프로그래머스 - 최솟값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59038) | Lv2 |
+|Week22| SQL - GROUP BY | [프로그래머스 - 조건에 맞는 사용자와 총 거래금액 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164668) | Lv3 |
+|Week22| SQL - GROUP BY | [프로그래머스 - 식품분류별 가장 비싼 식품의 정보 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/131116) | Lv4 |
+|Week21| 부르트포스 | [백준 - 리모콘](https://www.acmicpc.net/problem/1107) | 골5 |
+|Week21| 문자열 | [백준 - 듣보잡](https://www.acmicpc.net/problem/1764) | 실4 |
+|Week21| DP | [백준 - 계단오르기](https://www.acmicpc.net/problem/2579)| 실3 |
+|Week21| DP | [프로그래머스 - 야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927) | Lv3 |
+|Week21| 이분탐색 | [프로그래머스 - 입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)| Lv3 |
+|Week21| 해시  | [프로그래머스 - 베스트엘범](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | Lv3 |
+|Week21| SQL - JOIN | [프로그래머스 - 상품을 구매한 회원 비율 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131534) | Lv5 |
+|Week21| SQL - STRING,DATE | [프로그래머스 - 취소되지 않은 진료 예약 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/132204) | Lv4 |
+|Week20| 그리디 | [백준 - 에너지 드링크](https://www.acmicpc.net/problem/20115) | 실3 |
+|Week20| 자료구조 | [백준 - 에디터](https://www.acmicpc.net/problem/1406) | 실2 |
+|Week20| 이분탐색 | [백준 - 랜선 자르기](https://www.acmicpc.net/problem/1654)| 실2 |
+|Week20| 그래프 | [백준 - 완전 이진 트리](https://www.acmicpc.net/problem/9934) | 실1 |
+|Week20| 구현 | [소프티어 - 수퍼바이러스](https://softeer.ai/practice/6292)| Lv3 |
+|Week20| SQL - SUM,MAX,MIN  | [프로그래머스 - 동물 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59406) | Lv2 |
+|Week20| SQL - GROUP BY | [프로그래머스 - 카테고리 별 도서 판매량 집계하기](https://school.programmers.co.kr/learn/courses/30/lessons/144855) | Lv3 |
+|Week20| SQL - Join | [프로그래머스 - 주문량이 많은 아이스크림들 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/133027) | Lv4 |
+|Week19| 구현 | [소프티어 - 회의실 예약](https://softeer.ai/practice/6266) | Lv2 |
+|Week19| 구현 | [소프티어 - 성적 평균](https://softeer.ai/practice/6294) | Lv3 |
+|Week19| DFS/BFS | [백준 - 케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389)| 실1 |
+|Week19| 정렬 | [백준 - 좌표압축](https://www.acmicpc.net/problem/18870) | 실2 |
+|Week19| DP | [백준 - 2xn 타일링](https://www.acmicpc.net/problem/11726)| 실3 |
+|Week19| SQL - String, Date  | [프로그래머스 - 루시와 엘라 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59046) | Lv2 |
+|Week19| SQL - Join | [프로그래머스 - 보호소에서 중성화한 동물](https://school.programmers.co.kr/learn/courses/30/lessons/59045) | Lv4 |
+|Week19| SQL - Join | [프로그래머스 - 우유와 요거트가 담긴 장바구니](https://school.programmers.co.kr/learn/courses/30/lessons/62284) | Lv4 |
+|Week18| 구현 | [소프티어 - GBC](https://softeer.ai/practice/6270) | Lv2 |
+|Week18| 정렬 | [소프티어 - 금고털이](https://softeer.ai/practice/6288) | Lv2 |
+|Week18| 구현 | [소프티어 - 전광판](https://softeer.ai/practice/6268) | Lv2 |
+|Week18| DFS/BFS | [소프티어 - 장애물 인식 프로그램](https://softeer.ai/practice/6282) | Lv2 |
+|Week18| DP | [소프티어 - 지도 자동 구축](https://softeer.ai/practice/6280) | Lv2 |
+|Week18| SQL - IS NULL | [프로그래머스 - NULL 처리하기](https://school.programmers.co.kr/learn/courses/30/lessons/59410) | Lv2 |
+|Week18| SQL - Join | [프로그래머스 - 그룹별 조건에 맞는 식당 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131124) | Lv4 |
+|Week18| SQL - Join | [프로그래머스 - 오랜 기간 보호한 동물(1)](https://school.programmers.co.kr/learn/courses/30/lessons/59044) | Lv3 |
 |Week17| 스택, 큐 | [프로그래머스 - 올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | Lv2 |
 |Week17| 그리디 | [프로그래머스 - 조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860) | Lv2 |
 |Week17| 완전탐색 | [프로그래머스 - 소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839) | Lv2 |
@@ -232,6 +280,7 @@
 |:-------|:----|
 | 백준     | boj |
 | 프로그래머스 | pgs |
+| 소프티어 | sft |
 
 <br/>
 
