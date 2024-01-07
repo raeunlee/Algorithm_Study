@@ -25,14 +25,11 @@
 
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
-|Week23| 그리디 | [백준 - 등수 매기기](https://www.acmicpc.net/problem/2012) | 실3 |
-|Week23| 시뮬레이션 | [백준 - 치킨 배달](https://www.acmicpc.net/problem/15686) | 골5 |
-|Week23| 문자열 | [백준 - 크로스워드 퍼즐 쳐다보기 ](https://www.acmicpc.net/problem/3005)| 실3 |
-|Week23| 누적합 | [백준 - 피아노 체조](https://www.acmicpc.net/problem/21318)| 실1 |
-|Week23| DP | [프로그래머스 - 등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898) | Lv3 |
-|Week23| SQL - GROUP BY | [프로그래머스 - 가격대 별 상품 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131530) | Lv2 |
-|Week23| SQL - JOIN | [프로그래머스 - 헤비 유저가 소유한 장소](https://school.programmers.co.kr/learn/courses/30/lessons/77487) | Lv3 |
-|Week23| SQL - GROUP BY | [프로그래머스 - 년, 월, 성별 별 상품 구매 회원 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131532) | Lv4 |
+|Week24| 구현 | [백준 - 통계학](https://www.acmicpc.net/problem/2108) | 실3 |
+|Week24| 구현 | [백준 - 소수구하기](https://www.acmicpc.net/problem/1929) | 실3 |
+|Week24| BFS, DFS| [백준 - 헌내기는 친구가 필요해](https://www.acmicpc.net/problem/21736) | 실2 |
+|Week24| 재귀 | [백준 - 색종이 만들기](https://www.acmicpc.net/problem/2630) | 실2 |
+|Week24| BFS | [백준 - 토마토](https://www.acmicpc.net/problem/7576) | 골5 |
 
 <br/>
 
@@ -69,8 +66,10 @@
 | week_19 | 11.27 ~ 12.03 |      ✅  |   🔺    |      |      |    ✅   |   ✅    |   ✅  |   ✅    |
 | week_20 | 12.04 ~ 12.10 |       |   ✅   |      |      |   ✅   |   ✅   |   ✅  |     |
 | week_21 | 12.11 ~ 12.17 |       |   ✅   |      |      |   ✅    |   ✅   |  🔺  |     |
-| week_22 | 12.18 ~ 12.24 |       |      |      |      |  ✅     |   ✅   |   ✅   |  ✅    |
-| week_23 | 12.25 ~ 12.31 |       |      |      |      |      |      |      |      |
+| week_22 | 12.18 ~ 12.24 |       |    🔺  |      |      |  ✅     |   ✅   |   ✅   |  ✅    |
+| week_23 | 12.25 ~ 12.31 |       |   ✅   |      |      |   ✅   |   ✅   |      |      |
+| week_24 | 01.01 ~ 01.07 |       |      |      |      |   ✅   |      |      |      |
+
 
 
 
@@ -96,6 +95,14 @@
  
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
+|Week23| 그리디 | [백준 - 등수 매기기](https://www.acmicpc.net/problem/2012) | 실3 |
+|Week23| 시뮬레이션 | [백준 - 치킨 배달](https://www.acmicpc.net/problem/15686) | 골5 |
+|Week23| 문자열 | [백준 - 크로스워드 퍼즐 쳐다보기 ](https://www.acmicpc.net/problem/3005)| 실3 |
+|Week23| 누적합 | [백준 - 피아노 체조](https://www.acmicpc.net/problem/21318)| 실1 |
+|Week23| DP | [프로그래머스 - 등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898) | Lv3 |
+|Week23| SQL - GROUP BY | [프로그래머스 - 가격대 별 상품 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131530) | Lv2 |
+|Week23| SQL - JOIN | [프로그래머스 - 헤비 유저가 소유한 장소](https://school.programmers.co.kr/learn/courses/30/lessons/77487) | Lv3 |
+|Week23| SQL - GROUP BY | [프로그래머스 - 년, 월, 성별 별 상품 구매 회원 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131532) | Lv4 |
 |Week22| 해시 | [백준 - 비밀번호 찾기](https://www.acmicpc.net/problem/17219) | 실4 |
 |Week22| 브루트포스 | [백준 - 카잉달력](https://www.acmicpc.net/problem/6064) | 실1 |
 |Week22| 최단경로 | [백준 - 웜홀 ](https://www.acmicpc.net/problem/1865)| 골3 |
