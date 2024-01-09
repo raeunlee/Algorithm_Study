@@ -25,11 +25,12 @@
 
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
-|Week24| 구현 | [백준 - 통계학](https://www.acmicpc.net/problem/2108) | 실3 |
-|Week24| 구현 | [백준 - 소수구하기](https://www.acmicpc.net/problem/1929) | 실3 |
-|Week24| BFS, DFS| [백준 - 헌내기는 친구가 필요해](https://www.acmicpc.net/problem/21736) | 실2 |
-|Week24| 재귀 | [백준 - 색종이 만들기](https://www.acmicpc.net/problem/2630) | 실2 |
-|Week24| BFS | [백준 - 토마토](https://www.acmicpc.net/problem/7576) | 골5 |
+|Week25| 구현 | [백준 - 로봇 청소기](https://www.acmicpc.net/problem/14503) | 골5 |
+|Week25| 구현 | [백준 - 연구소](https://www.acmicpc.net/problem/14502) | 골4 |
+|Week25| 탐색 | [백준 - 그림](https://www.acmicpc.net/problem/1926) | 실1 |
+|Week25| 탐색 | [백준 - 나이트의 이동](https://www.acmicpc.net/problem/7562) | 실1 |
+|Week25| 그리디 | [백준 - 게임을 만든 동준이](https://www.acmicpc.net/problem/2847) | 실4 |
+
 
 <br/>
 
@@ -64,11 +65,11 @@
 | week_17 | 11.13 ~ 11.19 |   ✅   |   ✅   |   🔺   |       |   ✅   |   ✅   |  ❌ |   -   |
 | week_18 | 11.20 ~ 11.26 |   ✅     |  ✅    |   ✅   |   ✅   |   ✅    |   ✅    |   ❌  |    🔺   |
 | week_19 | 11.27 ~ 12.03 |      ✅  |   🔺    |      |      |    ✅   |   ✅    |   ✅  |   ✅    |
-| week_20 | 12.04 ~ 12.10 |       |   ✅   |      |      |   ✅   |   ✅   |   ✅  |     |
-| week_21 | 12.11 ~ 12.17 |       |   ✅   |      |      |   ✅    |   ✅   |  🔺  |     |
-| week_22 | 12.18 ~ 12.24 |       |    🔺  |      |      |  ✅     |   ✅   |   ✅   |  ✅    |
-| week_23 | 12.25 ~ 12.31 |       |   ✅   |      |      |   ✅   |   ✅   |      |      |
-| week_24 | 01.01 ~ 01.07 |       |      |      |      |   ✅   |      |      |      |
+| week_20 | 12.04 ~ 12.10 |    ❌   |   ✅   |      |      |   ✅   |   ✅   |   ✅  |     |
+| week_21 | 12.11 ~ 12.17 |    🔺   |   ✅   |      |      |   ✅    |   ✅   |  🔺  |     |
+| week_22 | 12.18 ~ 12.24 |     ❌  |    🔺  |      |      |  ✅     |   ✅   |   ✅   |  ✅    |
+| week_23 | 12.25 ~ 12.31 |    🔺   |   ✅   |      |      |   ✅   |   ✅   |      |      |
+| week_24 | 01.01 ~ 01.07 |    🔺   |      |      |      |   ✅   |   ✅   |      |      |
 
 
 
@@ -95,6 +96,11 @@
  
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
+|Week24| 구현 | [백준 - 통계학](https://www.acmicpc.net/problem/2108) | 실3 |
+|Week24| 구현 | [백준 - 소수구하기](https://www.acmicpc.net/problem/1929) | 실3 |
+|Week24| BFS, DFS| [백준 - 헌내기는 친구가 필요해](https://www.acmicpc.net/problem/21736) | 실2 |
+|Week24| 재귀 | [백준 - 색종이 만들기](https://www.acmicpc.net/problem/2630) | 실2 |
+|Week24| BFS | [백준 - 토마토](https://www.acmicpc.net/problem/7576) | 골5 |
 |Week23| 그리디 | [백준 - 등수 매기기](https://www.acmicpc.net/problem/2012) | 실3 |
 |Week23| 시뮬레이션 | [백준 - 치킨 배달](https://www.acmicpc.net/problem/15686) | 골5 |
 |Week23| 문자열 | [백준 - 크로스워드 퍼즐 쳐다보기 ](https://www.acmicpc.net/problem/3005)| 실3 |
