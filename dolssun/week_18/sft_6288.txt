@@ -1,0 +1,31 @@
+# 소프티어 금고털이
+
+import sys
+input = sys.stdin.readline
+
+data = []
+w, n = list(map(int, input().split()))
+
+for i in range(n):
+  m, p = list(map(int, input().split()))
+  data.append([m,p])
+#print(data)
+
+# key= lambda x : (-x[1], -len(x[0]),x[0])
+
+data.sort(key = lambda x : -x[1])
+#print(data)
+
+now,answer, total = 0,0,0
+
+while total < w:
+  #print(total)
+  if data[now][0] <= w-total:
+    total += data[now][0]
+    answer += data[now][1] * data[now][0]
+    now += 1
+  else:
+    answer += data[now][1]*(w-total)
+    total += w-total
+print(answer)
+#print(f'total:{total}, answer:{answer}')
