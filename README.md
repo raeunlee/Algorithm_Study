@@ -25,10 +25,10 @@
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
 |Week26| 배열 | [프로그래머스 - 교점에 별만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377) | lv.2 |
-|Week26| 문자열 | [프로그래머스 - 신규 아이디 추천]([https://www.acmicpc.net/problem/14502](https://school.programmers.co.kr/learn/courses/30/lessons/72410)) | lv.1 |
-|Week26| 탐색 | [프로그래머스 - 소수찾기]([https://www.acmicpc.net/problem/1926](https://school.programmers.co.kr/learn/courses/30/lessons/42839)) | lv.2 |
+|Week26| 문자열 | [프로그래머스 - 신규 아이디 추천]([https://www.acmicpc.net/problem/14502](https://school.programmers.co.kr/learn/courses/30/lessons/72410) | lv.1 |
+|Week26| 탐색 | [프로그래머스 - 소수찾기]([https://www.acmicpc.net/problem/1926](https://school.programmers.co.kr/learn/courses/30/lessons/42839) | lv.2 |
 |Week26| dp | [프로그래머스 - 정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105) | lv.2 |
-|Week26| 구현 | [프로그래머스 - 키패드 누르기]([https://www.acmicpc.net/problem/2847](https://school.programmers.co.kr/learn/courses/30/lessons/67256)) | lv.1 |
+|Week26| 구현 | [프로그래머스 - 키패드 누르기]([https://www.acmicpc.net/problem/2847](https://school.programmers.co.kr/learn/courses/30/lessons/67256) | lv.1 |
 
 
 <br/>
