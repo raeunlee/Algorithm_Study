@@ -24,11 +24,11 @@
 
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
-|Week25| 구현 | [백준 - 로봇 청소기](https://www.acmicpc.net/problem/14503) | 골5 |
-|Week25| 구현 | [백준 - 연구소](https://www.acmicpc.net/problem/14502) | 골4 |
-|Week25| 탐색 | [백준 - 그림](https://www.acmicpc.net/problem/1926) | 실1 |
-|Week25| 탐색 | [백준 - 나이트의 이동](https://www.acmicpc.net/problem/7562) | 실1 |
-|Week25| 그리디 | [백준 - 게임을 만든 동준이](https://www.acmicpc.net/problem/2847) | 실4 |
+|Week26| 배열 | [프로그래머스 - 교점에 별만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377) | lv.2 |
+|Week26| 문자열 | [프로그래머스 - 신규 아이디 추천]([https://www.acmicpc.net/problem/14502](https://school.programmers.co.kr/learn/courses/30/lessons/72410)) | lv.1 |
+|Week26| 탐색 | [프로그래머스 - 소수찾기]([https://www.acmicpc.net/problem/1926](https://school.programmers.co.kr/learn/courses/30/lessons/42839)) | lv.2 |
+|Week26| dp | [프로그래머스 - 정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105) | lv.2 |
+|Week26| 구현 | [프로그래머스 - 키패드 누르기]([https://www.acmicpc.net/problem/2847](https://school.programmers.co.kr/learn/courses/30/lessons/67256)) | lv.1 |
 
 
 <br/>
@@ -70,6 +70,7 @@
 | week_23 | 12.25 ~ 12.31 |   🔺   |   ✅    |      |   ✅   |   ✅   |      |   🔺   |
 | week_24 | 01.01 ~ 01.07 |   🔺   |     ❌    |      |   ✅   |   ✅   |      |      |
 | week_25 | 01.08 ~ 01.14 |         |    ✅     |      |   ✅   |      |      |      |
+| week_26 | 01.15 ~ 01.21 |         |          |      |       |      |      |      |
 
 
 
@@ -96,6 +97,11 @@
  
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
+|Week25| 구현 | [백준 - 로봇 청소기](https://www.acmicpc.net/problem/14503) | 골5 |
+|Week25| 구현 | [백준 - 연구소](https://www.acmicpc.net/problem/14502) | 골4 |
+|Week25| 탐색 | [백준 - 그림](https://www.acmicpc.net/problem/1926) | 실1 |
+|Week25| 탐색 | [백준 - 나이트의 이동](https://www.acmicpc.net/problem/7562) | 실1 |
+|Week25| 그리디 | [백준 - 게임을 만든 동준이](https://www.acmicpc.net/problem/2847) | 실4 |
 |Week24| 구현 | [백준 - 통계학](https://www.acmicpc.net/problem/2108) | 실3 |
 |Week24| 구현 | [백준 - 소수구하기](https://www.acmicpc.net/problem/1929) | 실3 |
 |Week24| BFS, DFS| [백준 - 헌내기는 친구가 필요해](https://www.acmicpc.net/problem/21736) | 실2 |
