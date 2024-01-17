@@ -27,7 +27,7 @@
 |Week26| 배열 | [프로그래머스 - 교점에 별만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377) | lv.2 |
 |Week26| 문자열 | [프로그래머스 - 신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410) | lv.1 |
 |Week26| 탐색 | [프로그래머스 - 소수찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839) | lv.2 |
-|Week26| dp | [프로그래머스 - 정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105) | lv.2 |
+|Week26| dp | [프로그래머스 - 정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105) | lv.3 |
 |Week26| 구현 | [프로그래머스 - 키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256) | lv.1 |
 
 
@@ -70,7 +70,7 @@
 | week_23 | 12.25 ~ 12.31 |   🔺   |   ✅    |      |   ✅   |   ✅   |      |   🔺   |
 | week_24 | 01.01 ~ 01.07 |   🔺   |     ❌    |      |   ✅   |   ✅   |      |      |
 | week_25 | 01.08 ~ 01.14 |         |    ✅     |      |   ✅   |      |      |      |
-| week_26 | 01.15 ~ 01.21 |         |          |      |       |      |      |      |
+| week_26 | 01.15 ~ 01.21 |         |          |      | ✅      |      |      |      |
 
 
 
