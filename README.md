@@ -25,8 +25,8 @@
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
 |Week27| 재귀 | [백준 - 피보나치 수 5](https://www.acmicpc.net/problem/10870) | 브2 |
-|Week27| 구현 | [백준 - 사탕 게임](https://www.acmicpc.net/problem/3085) | 실4 |
-|Week27| DP | [백준 - 점프](https://www.acmicpc.net/problem/1890) | 실2 |
+|Week27| 구현 | [백준 - 사탕 게임](https://www.acmicpc.net/problem/3085) | 실2 |
+|Week27| DP | [백준 - 점프](https://www.acmicpc.net/problem/1890) | 실1 |
 |Week27| BFS/DFS | [백준 - 전투](https://www.acmicpc.net/problem/1303) | 실1 |
 |Week27| SQL - GROUP BY | [프로그래머스 - 입양 시각 구하기(1)](https://school.programmers.co.kr/learn/courses/30/lessons/59412) | lv.2 |
 |Week27| SQL - GROUP BY | [프로그래머스 - 입양 시각 구하기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/59413)| lv.4 |
