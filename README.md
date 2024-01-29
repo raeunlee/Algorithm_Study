@@ -1,4 +1,4 @@
-# Kb국민은행 IT아카데미 4기 알고리즘 스터디
+ # Kb국민은행 IT아카데미 4기 알고리즘 스터디
 ### 학습기간
 2023년 7월 25일 ~ ing
 
@@ -25,7 +25,7 @@
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
 |Week28| 그리디 | [백준 - 볼 모으기](https://www.acmicpc.net/problem/17615) | 실1 |
-|Week28| 큐/덱 | [백준 - 카드2](hhttps://www.acmicpc.net/problem/2164) | 실4 |
+|Week28| 큐/덱 | [백준 - 카드2](https://www.acmicpc.net/problem/2164) | 실4 |
 |Week28| DP | [백준 - 동전 1](https://www.acmicpc.net/problem/2293) | 실1 |
 |Week28| BFS/DFS | [백준 - 양](https://www.acmicpc.net/problem/3184) | 실1 |
 |Week28| SQL - GROUP BY | [프로그래머스 - 저자 별 카테고리 별 매출액 집계하기](https://school.programmers.co.kr/learn/courses/30/lessons/144856) | lv.4 |
