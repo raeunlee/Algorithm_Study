@@ -26,7 +26,7 @@
 |:---:|:---:|:---:|:---:|
 |Week28| 그리디 | [백준 - 볼 모으기](https://www.acmicpc.net/problem/17615) | 실1 |
 |Week28| 큐/덱 | [백준 - 카드2](https://www.acmicpc.net/problem/2164) | 실4 |
-|Week28| DP | [백준 - 동전 1](https://www.acmicpc.net/problem/2293) | 실1 |
+|Week28| DP | [백준 - 동전 1](https://www.acmicpc.net/problem/2293) | 골5 |
 |Week28| BFS/DFS | [백준 - 양](https://www.acmicpc.net/problem/3184) | 실1 |
 |Week28| SQL - GROUP BY | [프로그래머스 - 저자 별 카테고리 별 매출액 집계하기](https://school.programmers.co.kr/learn/courses/30/lessons/144856) | lv.4 |
 |Week28| SQL - JOIN | [프로그래머스 - 5월 식품들의 총매출 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/131117)| lv.4 |
@@ -73,7 +73,7 @@
 | week_25 | 01.08 ~ 01.14 |         |    ✅     |      |   ✅   |   ❌   |      |      |
 | week_26 | 01.15 ~ 01.21 |         |     🔺     |      | ✅      |   ✅   |      |      |
 | week_27 | 01.22 ~ 01.28 |     ✅  |     ✅     |      | ✅      |   ✅   |      |      |
-| week_28 | 01.29 ~ 02.04 |         |         |         |         |         |         |         |
+| week_28 | 01.29 ~ 02.04 |         |         |         |   ✅      |         |         |         |
 
 
 
