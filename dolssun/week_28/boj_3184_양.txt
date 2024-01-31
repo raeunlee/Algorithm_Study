@@ -1,0 +1,43 @@
+# 백준 3184 : 양
+from collections import deque
+import sys
+input = sys.stdin.readline
+
+dx = [-1,0,1,0]
+dy = [0,1,0,-1]
+
+def bfs(x,y):
+    global v,o
+    q = deque()
+    q.append((x,y))
+
+    maps[x][y] = 0
+    while q:
+        x,y = q.popleft()
+        print(x,y)
+        for i in range(4):
+            nx = x + dx[i]
+            ny = y + dy[i]
+
+            if 0<=nx<r and 0<=ny<c and maps[nx][ny] != '#':
+                if maps[nx][ny] != 0:
+                    q.append((nx,ny))
+                    if maps[nx][ny] == 'v':
+                        v += 1
+                    elif maps[nx][ny] == 'o':
+                        o += 1
+                    maps[nx][ny] = 0
+    return
+
+r,c = map(int, input().split())
+maps = []
+for _ in range(r):
+    maps.append(list(input().rstrip()))
+
+global v,o
+for i in range(r):
+    for j in range(c):
+        if maps[i][j] != '#':
+            v, o = 0, 0
+            bfs(i,j)
+            print(f'v={v}, o={o}')
