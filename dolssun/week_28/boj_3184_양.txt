@@ -11,10 +11,16 @@ def bfs(x,y):
     q = deque()
     q.append((x,y))
 
+    if maps[x][y] == 'v':
+        v += 1
+    elif maps[x][y] == 'o':
+        o += 1
     maps[x][y] = 0
+
     while q:
         x,y = q.popleft()
-        print(x,y)
+        #print(x,y)
+
         for i in range(4):
             nx = x + dx[i]
             ny = y + dy[i]
@@ -22,22 +28,40 @@ def bfs(x,y):
             if 0<=nx<r and 0<=ny<c and maps[nx][ny] != '#':
                 if maps[nx][ny] != 0:
                     q.append((nx,ny))
+                    #print(f'>>>nx,ny,maps[nx][ny] : {nx}, {ny}, {maps[nx][ny]}')
                     if maps[nx][ny] == 'v':
                         v += 1
                     elif maps[nx][ny] == 'o':
                         o += 1
                     maps[nx][ny] = 0
-    return
+                    #print(f'>>>nx,ny,maps[nx][ny] : {nx}, {ny}, {maps[nx][ny]}')
 
 r,c = map(int, input().split())
 maps = []
-for _ in range(r):
+v_total, o_total = 0,0
+for i in range(r):
     maps.append(list(input().rstrip()))
+    for j in maps[i]:
+        if j == 'v':
+            v_total += 1
+        elif j == 'o':
+            o_total += 1
+
+#print(f'total : {v_total}, {o_total}')
+
 
 global v,o
 for i in range(r):
     for j in range(c):
-        if maps[i][j] != '#':
+        if maps[i][j] != '#' and maps[i][j] != 0:
             v, o = 0, 0
             bfs(i,j)
-            print(f'v={v}, o={o}')
+            #print(f'v={v}, o={o}')
+
+            if v>=1 and o>=1:
+                if o>v:
+                    v_total -= v
+                else:
+                    o_total -= o
+
+print(o_total, v_total)
