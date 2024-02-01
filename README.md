@@ -1,4 +1,4 @@
-# Kb국민은행 IT아카데미 4기 알고리즘 스터디
+ # Kb국민은행 IT아카데미 4기 알고리즘 스터디
 ### 학습기간
 2023년 7월 25일 ~ ing
 
@@ -24,12 +24,13 @@
 
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
-|Week27| 재귀 | [백준 - 피보나치 수 5](https://www.acmicpc.net/problem/10870) | 브2 |
-|Week27| 구현 | [백준 - 사탕 게임](https://www.acmicpc.net/problem/3085) | 실2 |
-|Week27| DP | [백준 - 점프](https://www.acmicpc.net/problem/1890) | 실1 |
-|Week27| BFS/DFS | [백준 - 전투](https://www.acmicpc.net/problem/1303) | 실1 |
-|Week27| SQL - GROUP BY | [프로그래머스 - 입양 시각 구하기(1)](https://school.programmers.co.kr/learn/courses/30/lessons/59412) | lv.2 |
-|Week27| SQL - GROUP BY | [프로그래머스 - 입양 시각 구하기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/59413)| lv.4 |
+|Week28| 그리디 | [백준 - 볼 모으기](https://www.acmicpc.net/problem/17615) | 실1 |
+|Week28| 큐/덱 | [백준 - 카드2](https://www.acmicpc.net/problem/2164) | 실4 |
+|Week28| DP | [백준 - 동전 1](https://www.acmicpc.net/problem/2293) | 실1 |
+|Week28| BFS/DFS | [백준 - 양](https://www.acmicpc.net/problem/3184) | 실1 |
+|Week28| SQL - GROUP BY | [프로그래머스 - 저자 별 카테고리 별 매출액 집계하기](https://school.programmers.co.kr/learn/courses/30/lessons/144856) | lv.4 |
+|Week28| SQL - JOIN | [프로그래머스 - 5월 식품들의 총매출 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/131117)| lv.4 |
+
 
 <br/>
 
@@ -71,7 +72,8 @@
 | week_24 | 01.01 ~ 01.07 |   🔺   |     ❌    |      |   ✅   |   ✅   |      |      |
 | week_25 | 01.08 ~ 01.14 |         |    ✅     |      |   ✅   |   ❌   |      |      |
 | week_26 | 01.15 ~ 01.21 |         |     🔺     |      | ✅      |   ✅   |      |      |
-| week_27 | 01.22 ~ 01.28 |         |          |      | ✅      |      |      |      |
+| week_27 | 01.22 ~ 01.28 |     ✅  |     ✅     |     ✅     | ✅      |   ✅   |      |      |
+| week_28 | 01.29 ~ 02.04 |         |         |         |         |         |         |         |
 
 
 
@@ -98,6 +100,12 @@
  
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
+|Week27| 재귀 | [백준 - 피보나치 수 5](https://www.acmicpc.net/problem/10870) | 브2 |
+|Week27| 구현 | [백준 - 사탕 게임](https://www.acmicpc.net/problem/3085) | 실2 |
+|Week27| DP | [백준 - 점프](https://www.acmicpc.net/problem/1890) | 실1 |
+|Week27| BFS/DFS | [백준 - 전투](https://www.acmicpc.net/problem/1303) | 실1 |
+|Week27| SQL - GROUP BY | [프로그래머스 - 입양 시각 구하기(1)](https://school.programmers.co.kr/learn/courses/30/lessons/59412) | lv.2 |
+|Week27| SQL - GROUP BY | [프로그래머스 - 입양 시각 구하기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/59413)| lv.4 |
 |Week26| 배열 | [프로그래머스 - 교점에 별만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377) | lv.2 |
 |Week26| 문자열 | [프로그래머스 - 신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410) | lv.1 |
 |Week26| 탐색 | [프로그래머스 - 소수찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839) | lv.2 |
