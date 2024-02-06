@@ -27,7 +27,7 @@
 |Week28| BFS/DFS | [백준 - 그림](https://www.acmicpc.net/problem/1926) | 실1 |
 |Week28| 그리디 | [백준 - 보물](https://www.acmicpc.net/problem/1026) | 실4 |
 |Week28| DP | [백준 - 1,2,3 더하기](https://www.acmicpc.net/problem/9095) | 실3 |
-|Week28|브루트포스 | [백준 - 리모콘](https://www.acmicpc.net/problem/1107) | 골5 |
+|Week28| 브루트포스 | [백준 - 리모콘](https://www.acmicpc.net/problem/1107) | 골5 |
 |Week28| 구현 | [백준 - A와 B](https://www.acmicpc.net/problem/12904) | 골5 |
 
 <br/>
