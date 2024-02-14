@@ -27,7 +27,7 @@
 |Week30| DP | [백준 - 카드 구매하기](https://www.acmicpc.net/problem/11052) | 실1 |
 |Week30| 이분탐색 | [백준 - 예산](https://www.acmicpc.net/problem/2512) | 실2 |
 |Week30| BFS | [백준 - A → B](https://www.acmicpc.net/problem/16953) | 실2 |
-|Week30| 구현 | [백준 - 종이자르기](https://www.acmicpc.net/problem/2628) | 실4 |
+|Week30| 구현 | [백준 - 종이자르기](https://www.acmicpc.net/problem/2628) | 실5 |
 |Week30| 트리 | [백준 - 이진검색트리](https://www.acmicpc.net/problem/5639) | 골5 |
 
 <br/>
@@ -73,6 +73,8 @@
 | week_27 | 01.22 ~ 01.28 |     ✅  |     ✅     |     ✅     | ✅      |   ✅   |      |      |
 | week_28 | 01.29 ~ 02.04 |      ✅    |     ✅    |     ✅     |   ✅      |    ✅     |         |         |
 | week_29 | 02.05 ~ 02.11 |         |     ✅   |      |   ✅   |       |         |         |
+| week_30 | 02.12 ~ 02.18 |         |        |      |   ✅   |       |         |         |
+
 
 
 
