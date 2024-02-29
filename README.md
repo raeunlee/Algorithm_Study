@@ -24,11 +24,11 @@
 
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
-|Week29| BFS/DFS | [백준 - 그림](https://www.acmicpc.net/problem/1926) | 실1 |
-|Week29| 그리디 | [백준 - 보물](https://www.acmicpc.net/problem/1026) | 실4 |
-|Week29| DP | [백준 - 1,2,3 더하기](https://www.acmicpc.net/problem/9095) | 실3 |
-|Week29| 브루트포스 | [백준 - 리모콘](https://www.acmicpc.net/problem/1107) | 골5 |
-|Week29| 구현 | [백준 - A와 B](https://www.acmicpc.net/problem/12904) | 골5 |
+|Week32| 구현 | [백준 - 제로](https://www.acmicpc.net/problem/10773) | 실4 |
+|Week32| DP | [백준 - 2xn 타일링2](https://www.acmicpc.net/problem/11727) | 실3 |
+|Week32| BFS, DFS | [백준 - 섬의 개수](https://www.acmicpc.net/problem/4963) | 실2 |
+|Week32| DP | [백준 - 평범한 배낭](https://www.acmicpc.net/problem/12865) | 골5 |
+|Week32| BFS, 구현 | [백준 - 인구 이동](https://www.acmicpc.net/problem/16234) | 골4 |
 
 <br/>
 
@@ -68,11 +68,16 @@
 | week_22 | 12.18 ~ 12.24 |   ❌   |    🔺   |      |  ✅     |   ✅   |   ✅   |  ✅    |
 | week_23 | 12.25 ~ 12.31 |   🔺   |   ✅    |      |   ✅   |   ✅   |      |   🔺   |
 | week_24 | 01.01 ~ 01.07 |   🔺   |     ❌    |      |   ✅   |   ✅   |      |      |
-| week_25 | 01.08 ~ 01.14 |         |    ✅     |      |   ✅   |   ❌   |      |      |
-| week_26 | 01.15 ~ 01.21 |         |     🔺     |      | ✅      |   ✅   |      |      |
+| week_25 | 01.08 ~ 01.14 |    ❌     |    ✅     |      |   ✅   |   ❌   |      |      |
+| week_26 | 01.15 ~ 01.21 |     ❌    |     🔺     |      | ✅      |   ✅   |      |      |
 | week_27 | 01.22 ~ 01.28 |     ✅  |     ✅     |     ✅     | ✅      |   ✅   |      |      |
 | week_28 | 01.29 ~ 02.04 |      ✅    |     ✅    |     ✅     |   ✅      |    ✅     |         |         |
-| week_29 | 02.05 ~ 02.11 |         |       |      |      |       |         |         |
+| week_29 | 02.05 ~ 02.11 |     ❌    |     ✅   |      |   ✅   |       |         |         |
+| week_30 | 02.12 ~ 02.18 |     ✅      |    ✅    |      |   ✅   |       |         |         |
+| week_31 | 02.19 ~ 02.25 |       |       |       |   ✅    |       |       |       |
+| week_32 | 02.26 ~ 03.03 |       |       |       |       |       |       |       |
+
+
 
 
 
@@ -98,6 +103,21 @@
  
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
+|Week31| 그리디 | [백준 - 꽃길](https://www.acmicpc.net/problem/14620) | 실2 |
+|Week31| 브루트포스 | [백준 - 차이를 최대로](https://www.acmicpc.net/problem/10819) | 실2 |
+|Week31| 구현 | [백준 - 배열 돌리기 1](https://www.acmicpc.net/problem/16926) | 실1 |
+|Week31| 구현 | [백준 - 균형잡힌 세상](https://www.acmicpc.net/problem/4949) | 실4 |
+|Week31|  DP | [백준 - 1학년](https://www.acmicpc.net/problem/5557) | 골5 |
+|Week30| DP | [백준 - 카드 구매하기](https://www.acmicpc.net/problem/11052) | 실1 |
+|Week30| 이분탐색 | [백준 - 예산](https://www.acmicpc.net/problem/2512) | 실2 |
+|Week30| BFS | [백준 - A → B](https://www.acmicpc.net/problem/16953) | 실2 |
+|Week30| 구현 | [백준 - 종이자르기](https://www.acmicpc.net/problem/2628) | 실5 |
+|Week30| 트리 | [백준 - 이진검색트리](https://www.acmicpc.net/problem/5639) | 골5 |
+|Week29| BFS/DFS | [백준 - 그림](https://www.acmicpc.net/problem/1926) | 실1 |
+|Week29| 그리디 | [백준 - 보물](https://www.acmicpc.net/problem/1026) | 실4 |
+|Week29| DP | [백준 - 1,2,3 더하기](https://www.acmicpc.net/problem/9095) | 실3 |
+|Week29| 브루트포스 | [백준 - 리모콘](https://www.acmicpc.net/problem/1107) | 골5 |
+|Week29| 구현 | [백준 - A와 B](https://www.acmicpc.net/problem/12904) | 골5 |
 |Week27| 재귀 | [백준 - 피보나치 수 5](https://www.acmicpc.net/problem/10870) | 브2 |
 |Week27| 구현 | [백준 - 사탕 게임](https://www.acmicpc.net/problem/3085) | 실2 |
 |Week27| DP | [백준 - 점프](https://www.acmicpc.net/problem/1890) | 실1 |
