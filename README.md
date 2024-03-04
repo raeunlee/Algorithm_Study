@@ -25,8 +25,8 @@
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
 |Week33| 완전탐색 | [백준 - 일곱 난쟁이](https://www.acmicpc.net/problem/2309) | 브1 |
-|Week33| 투 포인터 | [백준 - 블로그](https://www.acmicpc.net/problem/16157) | 실3 |
-|Week33| 그리디 | [백준 - 블로그2](https://www.acmicpc.net/problem/20365) | 실2 |
+|Week33| 투 포인터 | [백준 - 블로그](https://www.acmicpc.net/problem/21921) | 실3 |
+|Week33| 그리디 | [백준 - 블로그2](https://www.acmicpc.net/problem/20365) | 실3 |
 |Week33| DFS | [백준 - 알파벳](https://www.acmicpc.net/problem/1987) | 골4 |
 |Week33| BFS | [백준 - 불](https://www.acmicpc.net/problem/5427) | 골4 |
 
