@@ -24,11 +24,11 @@
 
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
-|Week32| 구현 | [백준 - 제로](https://www.acmicpc.net/problem/10773) | 실4 |
-|Week32| DP | [백준 - 2xn 타일링2](https://www.acmicpc.net/problem/11727) | 실3 |
-|Week32| BFS, DFS | [백준 - 섬의 개수](https://www.acmicpc.net/problem/4963) | 실2 |
-|Week32| DP | [백준 - 평범한 배낭](https://www.acmicpc.net/problem/12865) | 골5 |
-|Week32| BFS, 구현 | [백준 - 인구 이동](https://www.acmicpc.net/problem/16234) | 골4 |
+|Week33| 완전탐색 | [백준 - 일곱 난쟁이](https://www.acmicpc.net/problem/2309) | 브1 |
+|Week33| 투 포인터 | [백준 - 블로그](https://www.acmicpc.net/problem/16157) | 실3 |
+|Week33| 그리디 | [백준 - 블로그2](https://www.acmicpc.net/problem/20365) | 실2 |
+|Week33| DFS | [백준 - 알파벳](https://www.acmicpc.net/problem/1987) | 골4 |
+|Week33| BFS | [백준 - 불](https://www.acmicpc.net/problem/5427) | 골4 |
 
 <br/>
 
@@ -99,6 +99,11 @@
  
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
+|Week32| 구현 | [백준 - 제로](https://www.acmicpc.net/problem/10773) | 실4 |
+|Week32| DP | [백준 - 2xn 타일링2](https://www.acmicpc.net/problem/11727) | 실3 |
+|Week32| BFS, DFS | [백준 - 섬의 개수](https://www.acmicpc.net/problem/4963) | 실2 |
+|Week32| DP | [백준 - 평범한 배낭](https://www.acmicpc.net/problem/12865) | 골5 |
+|Week32| BFS, 구현 | [백준 - 인구 이동](https://www.acmicpc.net/problem/16234) | 골4 |
 |Week31| 그리디 | [백준 - 꽃길](https://www.acmicpc.net/problem/14620) | 실2 |
 |Week31| 브루트포스 | [백준 - 차이를 최대로](https://www.acmicpc.net/problem/10819) | 실2 |
 |Week31| 구현 | [백준 - 배열 돌리기 1](https://www.acmicpc.net/problem/16926) | 실1 |
