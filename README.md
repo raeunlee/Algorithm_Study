@@ -24,11 +24,11 @@
 
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
-|Week33| 완전탐색 | [백준 - 일곱 난쟁이](https://www.acmicpc.net/problem/2309) | 브1 |
-|Week33| 투 포인터 | [백준 - 블로그](https://www.acmicpc.net/problem/21921) | 실3 |
-|Week33| 그리디 | [백준 - 블로그2](https://www.acmicpc.net/problem/20365) | 실3 |
-|Week33| DFS | [백준 - 알파벳](https://www.acmicpc.net/problem/1987) | 골4 |
-|Week33| BFS | [백준 - 불](https://www.acmicpc.net/problem/5427) | 골4 |
+|Week34| 완전탐색 | [백준 - 뱀과 사다리 게임](https://www.acmicpc.net/problem/16928) | 골5 |
+|Week34| 브루트포스 | [백준 - 리모컨](https://www.acmicpc.net/problem/1107) | 골5 |
+|Week34| 브루트포스 | [백준 - 가장 가까운 세 사람의 심리적 거리](https://www.acmicpc.net/problem/20529) | 실1 |
+|Week34| 탐색 | [백준 - A->B](https://www.acmicpc.net/problem/16953) | 실2 |
+|Week34| DP | [백준 - 정수삼각형](https://www.acmicpc.net/problem/1932) | 실1 |
 
 <br/>
 
@@ -100,6 +100,11 @@
  
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
+|Week33| 완전탐색 | [백준 - 일곱 난쟁이](https://www.acmicpc.net/problem/2309) | 브1 |
+|Week33| 투 포인터 | [백준 - 블로그](https://www.acmicpc.net/problem/21921) | 실3 |
+|Week33| 그리디 | [백준 - 블로그2](https://www.acmicpc.net/problem/20365) | 실3 |
+|Week33| DFS | [백준 - 알파벳](https://www.acmicpc.net/problem/1987) | 골4 |
+|Week33| BFS | [백준 - 불](https://www.acmicpc.net/problem/5427) | 골4 |
 |Week32| 구현 | [백준 - 제로](https://www.acmicpc.net/problem/10773) | 실4 |
 |Week32| DP | [백준 - 2xn 타일링2](https://www.acmicpc.net/problem/11727) | 실3 |
 |Week32| BFS, DFS | [백준 - 섬의 개수](https://www.acmicpc.net/problem/4963) | 실2 |
