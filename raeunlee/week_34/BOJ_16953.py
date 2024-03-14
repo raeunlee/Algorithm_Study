@@ -1,5 +1,6 @@
 # A -> B
 # 주어진 모든 경로중에 최대한 빠르게 B에 도달하기
+
 from collections import deque
 
 a, b = map(int, input().split())
