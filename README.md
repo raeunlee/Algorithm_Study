@@ -24,11 +24,12 @@
 
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
-|Week34| 완전탐색 | [백준 - 뱀과 사다리 게임](https://www.acmicpc.net/problem/16928) | 골5 |
-|Week34| 브루트포스 | [백준 - 리모컨](https://www.acmicpc.net/problem/1107) | 골5 |
-|Week34| 브루트포스 | [백준 - 가장 가까운 세 사람의 심리적 거리](https://www.acmicpc.net/problem/20529) | 실1 |
-|Week34| 탐색 | [백준 - A->B](https://www.acmicpc.net/problem/16953) | 실2 |
-|Week34| DP | [백준 - 정수삼각형](https://www.acmicpc.net/problem/1932) | 실1 |
+|Week35| 완전탐색 | [소프티어 - 개표 ](https://softeer.ai/practice/7698) | Lv1 |
+|Week35| 구현 | [소프티어 - 나무 심기 ](https://softeer.ai/practice/7353) | Lv1 |
+|Week35| 구현 | [소프티어 - 진정한 효도](https://softeer.ai/practice/7374) | Lv2 |
+|Week35| 탐색 | [소프티어 - 연탄의 크기](https://softeer.ai/practice/7628) | Lv2 |
+|Week35| 그리디 | [소프티어 - 강의실 배정](https://softeer.ai/practice/6291) | Lv3 |
+|Week35| 그리디 | [소프티어 - 스마트 물류](https://softeer.ai/practice/6279) | Lv3 |
 
 <br/>
 
@@ -78,6 +79,8 @@
 | week_32 | 02.26 ~ 03.03 |      ✅  |       |       |  ✅     |       |       |    ❌   |
 | week_33 | 03.04 ~ 03.10 |     ✅    |       |       |  ✅     |       |       |   ✅    |
 | week_34 | 03.11 ~ 03.17 |     ✅    |       |       |  ✅     |       |       |       |
+| week_35 | 03.18 ~ 03.24 |         |       |       |       |       |       |       |
+
 
 <br/>
 
@@ -101,6 +104,11 @@
  
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
+|Week34| 완전탐색 | [백준 - 뱀과 사다리 게임](https://www.acmicpc.net/problem/16928) | 골5 |
+|Week34| 브루트포스 | [백준 - 리모컨](https://www.acmicpc.net/problem/1107) | 골5 |
+|Week34| 브루트포스 | [백준 - 가장 가까운 세 사람의 심리적 거리](https://www.acmicpc.net/problem/20529) | 실1 |
+|Week34| 탐색 | [백준 - A->B](https://www.acmicpc.net/problem/16953) | 실2 |
+|Week34| DP | [백준 - 정수삼각형](https://www.acmicpc.net/problem/1932) | 실1 |
 |Week33| 완전탐색 | [백준 - 일곱 난쟁이](https://www.acmicpc.net/problem/2309) | 브1 |
 |Week33| 투 포인터 | [백준 - 블로그](https://www.acmicpc.net/problem/21921) | 실3 |
 |Week33| 그리디 | [백준 - 블로그2](https://www.acmicpc.net/problem/20365) | 실3 |
