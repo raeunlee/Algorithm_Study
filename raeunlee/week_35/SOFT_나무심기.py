@@ -1,8 +1,3 @@
-n = int(input())
-l = list(map(int, input().split()))
-
-l.sort() 
-
 tmp = -10000
 
 for i in range(n-1):
