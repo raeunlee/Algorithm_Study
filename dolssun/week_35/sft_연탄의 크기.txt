@@ -1,0 +1,31 @@
+import sys
+
+input = sys.stdin.readline
+r = []
+n = int(input())     # n : 집의수
+r = list(map(int, input().split()))    # r : 각 집의 난로 반지름 저장
+r.sort()    # 난로 반지름 정렬
+
+#x = r[-1]//2    => [ 반례 : 2 5 5 ]   
+x = max(r)
+
+#for i in range(len())
+i=2
+cnt = 0
+while i <= x:
+    tmp = 0
+    for radius in r:
+        if radius%i==0:
+            tmp += 1
+    i += 1
+    cnt = max(cnt, tmp)
+
+print(cnt)
+
+# 반례
+# 반례는
+
+# 입력 :
+# 3 
+# 2 5 5
+      
