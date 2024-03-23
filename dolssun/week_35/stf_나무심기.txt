@@ -1,0 +1,13 @@
+# 소프티어 : 나무심기
+
+import sys
+
+n = int(input())
+arr = list(map(int, input().split()))
+arr.sort()
+
+tmp1 = arr[0]*arr[1]
+tmp2 = arr[-1]*arr[-2]
+
+answer = max(tmp1,tmp2)
+print(answer)

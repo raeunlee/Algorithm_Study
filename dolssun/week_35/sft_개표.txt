@@ -1,0 +1,18 @@
+# 소프티어 : 개표
+
+import sys
+
+def draw(score):
+    x = score//5
+    y = score%5
+
+    answer = score5*x + '|'*y
+    print(answer)
+    
+score5 = "++++ "
+arr = []
+t = int(input())
+
+for i in range(t):
+    score = int(input())
+    draw(score)
