@@ -1,0 +1,31 @@
+#소프티어 : 스마트 물류
+
+import sys
+input = sys.stdin.readline
+
+cnt = 0                                # cnt : 최대 로봇 수 
+n,k = map(int, input().split())        # n, k : 라인길이, 부품 집을 수 있는 거리 
+arr = list(input().strip())            # arr[] = 로봇, 부품 위치 저장 (H,P)
+h_check = [0]*n                        # h_check[] = 부품 선택 유무 확인
+p_check = [0]*n                        # p_check[] = 로봇이 선택했는지 유무 확인
+
+for i in range(n):
+    if arr[i] == 'H':
+        h_check[i] = 1
+    elif arr[i] == 'P':
+        p_check[i] = 1
+
+for i in range(n):
+    if arr[i] == 'P':                # 로봇인경우
+        for j in range(i-k, i+k+1):      # 로봇을 기준으로 좌, 우 k만큼 확인     
+            #if i-k<0 or i+k+1>=n:
+            if j<0 or j>=n:                 # 0<i-k<n 인 경우만 확인
+                continue
+
+            if arr[j] == 'H' and h_check[j] == 1 and p_check[i] == 1:
+                cnt += 1                    # 선택완료한 로봇 수 1 증가
+                h_check[j] = 0              # j 번째 부품 선택완료
+                p_check[i] = 0              # i 번째 로봇이 선택완료
+                continue
+                
+print(cnt)
