@@ -24,12 +24,12 @@
 
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
-|Week35| 완전탐색 | [소프티어 - 개표 ](https://softeer.ai/practice/7698) | Lv1 |
-|Week35| 구현 | [소프티어 - 나무 심기 ](https://softeer.ai/practice/7353) | Lv1 |
-|Week35| 구현 | [소프티어 - 진정한 효도](https://softeer.ai/practice/7374) | Lv2 |
-|Week35| 탐색 | [소프티어 - 연탄의 크기](https://softeer.ai/practice/7628) | Lv2 |
-|Week35| 그리디 | [소프티어 - 강의실 배정](https://softeer.ai/practice/6291) | Lv3 |
-|Week35| 그리디 | [소프티어 - 스마트 물류](https://softeer.ai/practice/6279) | Lv3 |
+|Week36| 구현 | [소프티어 - 8단 변속기](https://softeer.ai/practice/6283) | Lv2 |
+|Week36| 구현 | [소프티어 - 우물 안 개구리](https://softeer.ai/practice/6289) | Lv3 |
+|Week36| 백트래킹 | [소프티어 - 순서대로 방문하기](https://softeer.ai/practice/6246) | Lv3 |
+|Week36| DFS | [소프티어 - 출퇴근](https://softeer.ai/practice/6248) | Lv3 |
+|Week36| SQL - NULL | [프로그래머스 - 경기도에 위치한 식품창고 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131114) | Lv1 |
+|Week36| SQL - String, Date| [프로그래머스 - 조회수가 가장 많은 중고거래 게시판의 첨부파일 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164671) | Lv3 |
 
 <br/>
 
@@ -104,6 +104,12 @@
  
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
+|Week35| 완전탐색 | [소프티어 - 개표 ](https://softeer.ai/practice/7698) | Lv1 |
+|Week35| 구현 | [소프티어 - 나무 심기 ](https://softeer.ai/practice/7353) | Lv1 |
+|Week35| 구현 | [소프티어 - 진정한 효도](https://softeer.ai/practice/7374) | Lv2 |
+|Week35| 탐색 | [소프티어 - 연탄의 크기](https://softeer.ai/practice/7628) | Lv2 |
+|Week35| 그리디 | [소프티어 - 강의실 배정](https://softeer.ai/practice/6291) | Lv3 |
+|Week35| 그리디 | [소프티어 - 스마트 물류](https://softeer.ai/practice/6279) | Lv3 |
 |Week34| 완전탐색 | [백준 - 뱀과 사다리 게임](https://www.acmicpc.net/problem/16928) | 골5 |
 |Week34| 브루트포스 | [백준 - 리모컨](https://www.acmicpc.net/problem/1107) | 골5 |
 |Week34| 브루트포스 | [백준 - 가장 가까운 세 사람의 심리적 거리](https://www.acmicpc.net/problem/20529) | 실1 |
