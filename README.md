@@ -24,12 +24,11 @@
 
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
-|Week36| 구현 | [소프티어 - 8단 변속기](https://softeer.ai/practice/6283) | Lv2 |
-|Week36| 구현 | [소프티어 - 우물 안 개구리](https://softeer.ai/practice/6289) | Lv3 |
-|Week36| 백트래킹 | [소프티어 - 순서대로 방문하기](https://softeer.ai/practice/6246) | Lv3 |
-|Week36| DFS | [소프티어 - 출퇴근](https://softeer.ai/practice/6248) | Lv3 |
-|Week36| SQL - NULL | [프로그래머스 - 경기도에 위치한 식품창고 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131114) | Lv1 |
-|Week36| SQL - String, Date| [프로그래머스 - 조회수가 가장 많은 중고거래 게시판의 첨부파일 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164671) | Lv3 |
+|Week36| DP | [백준 - 신나는 함수 실행](https://www.acmicpc.net/problem/9184) | 실2 |
+|Week36| 그리디 | [백준 - 강의실 배정](https://www.acmicpc.net/problem/11000) | 골5 |
+|Week36| 최단경로 | [백준 - 특정한 최단 경로](https://www.acmicpc.net/problem/1504) | 골4 |
+|Week36| 그리디 | [프로그래머스 - 기지국 설치](https://softeer.ai/practice/6246) | Lv3 |
+|Week36| 구현 | [프로그래머스 - 다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911) | Lv2 |
 
 <br/>
 
@@ -104,6 +103,12 @@
  
 | 주차 | 문제 유형 | 문제 | 난이도 |
 |:---:|:---:|:---:|:---:|
+|Week36| 구현 | [소프티어 - 8단 변속기](https://softeer.ai/practice/6283) | Lv2 |
+|Week36| 구현 | [소프티어 - 우물 안 개구리](https://softeer.ai/practice/6289) | Lv3 |
+|Week36| 백트래킹 | [소프티어 - 순서대로 방문하기](https://softeer.ai/practice/6246) | Lv3 |
+|Week36| DFS | [소프티어 - 출퇴근](https://softeer.ai/practice/6248) | Lv3 |
+|Week36| SQL - NULL | [프로그래머스 - 경기도에 위치한 식품창고 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131114) | Lv1 |
+|Week36| SQL - String, Date| [프로그래머스 - 조회수가 가장 많은 중고거래 게시판의 첨부파일 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164671) | Lv3 |
 |Week35| 완전탐색 | [소프티어 - 개표 ](https://softeer.ai/practice/7698) | Lv1 |
 |Week35| 구현 | [소프티어 - 나무 심기 ](https://softeer.ai/practice/7353) | Lv1 |
 |Week35| 구현 | [소프티어 - 진정한 효도](https://softeer.ai/practice/7374) | Lv2 |
