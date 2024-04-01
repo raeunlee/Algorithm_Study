@@ -27,7 +27,7 @@
 |Week37| DP | [백준 - 신나는 함수 실행](https://www.acmicpc.net/problem/9184) | 실2 |
 |Week37| 그리디 | [백준 - 강의실 배정](https://www.acmicpc.net/problem/11000) | 골5 |
 |Week37| 최단경로 | [백준 - 특정한 최단 경로](https://www.acmicpc.net/problem/1504) | 골4 |
-|Week37| 그리디 | [프로그래머스 - 기지국 설치](https://softeer.ai/practice/6246) | Lv3 |
+|Week37| 그리디 | [프로그래머스 - 기지국 설치](https://school.programmers.co.kr/learn/courses/30/lessons/12979) | Lv3 |
 |Week37| 구현 | [프로그래머스 - 다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911) | Lv2 |
 
 <br/>
